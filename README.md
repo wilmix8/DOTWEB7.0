@@ -65,5 +65,5 @@ shortly  when   client   send  a  request  to  a  remotserver  ;
      and  print    the output  generated  by CDC  compiler  by 
  using chdollar   JAVA  runtime.
 
-
+Note:chdollar project  is started at  google code   and  it  is  modified  at github.
 
