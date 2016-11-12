@@ -1,0 +1,2092 @@
+=====================================================================
+
+ 
+
+                                              CHDOLLAR  Programming  Language
+
+                                                         BY
+
+                                                  Jemin  Information   Technology
+                                                     
+==================================================================
+
+==================================================================================
+C HD O L L A R -PROGRAMMING-TUTORIAL
+--------------------------------------------------
+Written By
+wilmix jemin j
+==================================================================================
+UNIT -1
+--------
+INTRODUCTION
+------------
+
+CHDollar Programming Language  is a modern technology consists of JAVA OOPS, C# OOPS, 
+Behave like CDOLLAR OOPS, GDOLLAR OOPS,used in Remote  WebApplication , and Advanced 
+OOPs.
+It  is  mainly  used  as a   Remote Webappilication.
+It is used in case of Billing,Forms ,normal  remotewebapplication ,
+  CH$-GRAPHICS ,and complex problems.
+
+
+ABOUT CHDOLLAR Programming Language
+---------------------------------------------------
+It is concenterated in building and designing Advanced Operating systems.
+CH$ is invented in GDollar in year 2008.
+CH stands for GAMMA and dollar stands for money.
+So we called as GAMMA Technology.
+
+ Merits of CH$
+> It is Good to create any compilers..and Advanced Operating systems and utilities.
+> It has simpilified code
+> it uses Pointers concept.
+> CH$ also used with C@ and Arrow# in mobile and cloud computing.
+>  it  is     learnable  ,easy  to use, and   let  developer s to  focus  only   java,c++
+or  C#  Programming  Language
+>  CH$  also    support   CHDOLLARAJAX
+>  it  can  be  used  with   JAVA  framework   lik  java spring ,hibernate.
+
+Disadvantages
+> It  is   used  to  build   normal  remote  webapplication
+> absence   of   framework in  CH$ .
+
+CHDOLLAR   has  only   2  pillars  which is  present  in SRGX   and jittechsection1
+
+a).chdollar(simillar to java and C++ combination)  called  as  CWEB.
+b) CHDollar-JAVA (cross  compiler)  simillar  to  Core JAVA  called  as  GWEB.
+ 
+
+SYNTAX FOR CHDOLLAR (.chdollar) (beautiful syntax)
+---------------------------------------------------------------
+<CHSAUCER>
+@Remote
+
+<%
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+{
+<! CHDollar OOPS Logic !>
+}
+%>
+</CHSAUCER>
+
+note: This should be saved in filename.chdollar
+----
+
+How Chdollar Technology Works?  Or  chdollar  workflow?
+––––––––––––––––––––––––––––––––-
+At first .chdollar is compiled by remoteserver  usign  CDC  compiler.
+chdollar  has  inbuilt  chdollar-java (CDC) compiler
+And which  translates to  (bytecode) .class  file 
+or  which  accepts  .dll  file  and  convert  to  .exe  file.
+This   CDC  compiler   is  divided  into  two  parts  
+a)  accept  corejava  concepts
+b)  accept  C# oops  concepts ,  CDollar  or  GDollar  oops  concepts  
+remotserver  also  executes .exe or  .class  file.
+so  java programmers  or C#  programmers   can  use  it.  
+shortly  when   client   send  a  request  to  a  remotserver  ;
+ remotserver   accepts  CH$  code and  process  the   request   
+     and  print    the output  generated  by CDC  compiler  by 
+ using chdollar   JAVA  runtime.
+
+
+============================================================
+
+How to compile cdollar Program in windows?
+How to run remoteserver in windows?
+server   <portnumber>  <hostname>   /
+note : default  hostname  is  localhost  or ip  address.
+why  we   need   remotewebapplication?  what  is  the  difference  between  webapplication   and  this?
+webapplication   webpages   will  not   travel   around   web
+but  remotewebapplication is  seen  in internet ,mobiles,
+and all  devices.
+
+==================================================================================
+UNIT  -2:  a)  CHDollar  with  CDollar
+==================================================================================
+CDOLLARARRAYS
+
+CDollarArrays list1 = new CDollarArrays(string);
+to add any collection objects to array use
+add (String) functions and to Display those
+objects use list1.Display();
+Any class that use CDollarArrays you should extends Array in class...
+
+
+TREEOFARRAY
+
+
+SYNTAX for TreeofArray:
+--------------------------------------
+TreeArray <name> = new TreeArray(String);
+<name>.add(elements);
+where elements may be string or collections....
+
+LISTOFARRAY
+
+
+SYNTAX for List of Array:
+--------------------------------------
+LArray <name> = new LArray(string);
+<name>.add(elements);
+The elements may be string or collection elements.
+
+
+ARRAYLIST
+----------------
+SYNTAX:
+------------
+ArrayList  <Type> arraylistobjectname = new ArrayList <Type>
+But type may be Object, int, Double,String,etc.
+
+Why we focus Arraylist ?
+Since ArrayList involves Powerful insertion and search mechanism when
+compared to array.
+So we focus it.
+Some built in functions available in ArrayList they are add and remove.
+syntax : arraylistobjectname.add(<datatype>);
+syntax: arraylistobjectname.remove(<datatype>);
+
+
+LinkedList
+----------
+LinkedList <Type> arraylistobjectname <NEW> LinkedList<Type>
+But type may be Object, int, Double,String,etc.
+As according to collection concepts , built in functions are Designed for
+LinkedList they are add and remove.
+syntax : Linkedlistobjectname.add(<datatype>);
+syntax: Linkedlistobjectname.remove(<datatype>);
+syntax : Linkedlistobjectname.addFirst(<datatype>);
+syntax: Linkedlistobjectname.removeFirst(<datatype>);
+syntax : Linkedlistobjectname.addLast(<datatype>);
+syntax: Linkedlistobjectname.removeLast(<datatype>);
+
+What is the function of LinkedList? Why we use LinkedList?
+In ArrayList You can't insert element in to the middle
+or first or last so LinkedList is focused....
+LinkedList is a Good example of Train....
+
+
+VECTOR
+------------
+Vector also has the same Datastructures of ArrayList;
+but why we focus? . So vector is simillar to Arraylist.
+So we can mention in short notation as VList.
+but Vector is synchronized and ArrayList is not Synchronized.
+Vector use Enumerator and Iterator but ArrayList use only Iterator.
+Vector  <VectorObject> = <NEW> Vector();
+<VectorObject>.addE(elements);
+but vector used add functions
+<VectorObject>.first(); => Represent First Element...
+<VectorObject>.last(); => Represent Last Element...
+<VectorObject>.removeAll(elements); => It is used to remove all elements..
+<VectorObject>.removeAt(elements); => remove at Particular position
+<VectorObject>.remove(object); => remove the first occurance of the given element
+<VectorObject>.remove(index); => Remove by Index or position.
+
+----------------------------------
+SET
+------
+So Set is represented in Cdollar as <S>
+Syntax:
+-----------
+Set  Objectname = new Set();
+Difference between Set and List?
+List allow duplicates but Set did not allow duplicates...
+Set did not allow insertion at middle.
+For listing the elements in Ascending or descending order
+we had to use TreeSet.
+TREESET
+------------
+Treeset represent a collection that uses Tree datastructure for storage
+Items in the collections are stored in Ascending or descending order.
+TreeSet objectname = new TreeSet();
+objectname.add(elements);
+
+
+
+Operators conditions and loops
+--------------------------------------------------
+Operators
+---------
++ => ADD
+++=> Increment
+- => Substract
+--=> Substract
+* => Mulitply
+/ = Division
+~ => bitwise unary not operator
+NOT (!) => flips true values to false and false values to true.
+>>, >>>, and << => IT is used to shift all the bits of a number left
+or right
+a Specified number of places...
+Other Operators
+----------------
+AND => And operator
+OR => OR operator
+?: => value =condition ? value1 : value2 (similar to if then else)
+== => compare two values...
+=  => Assignment operators
+equals  => Compare two objects
+Relational Operators
+--------------------
+> >= => Greater than , Greater than equals.
+< <= => Less than , Less than equal
+ = or  != => Equals and not equals
+
+CONDITIONS
+----------
+IF Syntax:
+------------
+if <condition> statements;
+IF then else Syntax:
+----------------------
+if <condition> statements else statements1
+if <condition> statements1 else if condition1 statement2 .... and soon.
+SWITCH Statements:
+-------------------
+switch (expression)
+{
+case value1 :
+statement1;
+[break]
+................
+case valuen:
+statementn;
+[break]
+-----
+default:
+default_statement;
+}
+Explanation:
+------------
+If the expression is equals value1
+statement1 will be executed.
+if you use break it comes out of the loop
+otherwise it continue to execute next statement.
+The default value at the end is optional. It can be included if there are other values that can be held in
+your variable but that you haven't checked for elsewhere in the switch statement.
+THE WHILE LOOP
+-----------------------------
+while (<condition> )
+{
+< Statements block>
+}
+Note: if the condition is true the block get executed.
+otherwise the loop will be continued.
+THE DO --- WHILE LOOP
+-----------------------------
+do
+{
+< Statements block>
+}
+while( <conditon> )
+Note: if the condition is true the block get executed.
+and it is tested at the end of the loop, but not at the
+beginning. The loop will be continued until it satisfies the condition.
+biggest reason to be use the do - while loop is that
+when you need the body of the loop to be run atleast once.
+FOR LOOP
+--------
+for ( identifier=value; cond1; iterator operators)
+{
+< Block statements >
+}
+For -EACH Statement
+----------------------
+for ( variable : collection)
+statement;
+for eg)
+If you add integers (1 to 3) to arraylist
+and if you wish to copy and store it in an integer variable
+so that you can print the values that is copied from
+arraylist.
+Then follow this method of for each statements...
+for ( int a : ar)
+{
+< Block statements >
+
+}
+Output:
+-----------
+value=1
+value =2
+value =3
+CONTINUE and Break
+---------------------------------
+Break means it break out of loop
+and continue means
+it will continue to execute the statements;
+for eg)
+
+
+CHDOLLAR STRUCTURES
+-----------------------------------
+CHDollar structure is another user defined data type available in CDollar programming, which allows
+you to combine data items of different kinds.
+using the same memmory location. It also provide an efficient way of using the same
+memory location for multi-purpose.
+Thus CHDollar Structures is Equivalent = C progamming Structures and union.
+and it uses less memmory capacity than any Programming languages. IT is also
+used to store collections, object ,etc.
+IT is the most important datastructure implemented by wilmix jemin j.
+He reduces the demerits of C Programming and
+Gdollar  child is CHDollar. So CHDollar has very beautiful and Advanced Concepts
+than any Programming Languages. 
+SYNTAX:
+
+<STRUCTURE> <datatype> list = <NEW> <STRUCTURE> <datatype>(object);
+list.add(object);
+
+
+
+What is Pointers?
+
+Variables that hold memory address are called pointers.
+Why we mainly use Pointers?
+Pointers reduces the length and complexity of the program,
+They increase the execution speed.
+It holds the memmory addres..
+SYNTAX of CHDollar Pointers:
+---------------------------------
+
+{*}<<DATATYPE>> <pointer-name> Pointer<<DATATYPE>>(intialvalue);
+for eg)
+<Str> s ="Life is beautiful";
+{*}<<Str>> l Pointer<<Str>>(s);
+The given above statement will store the string "Life is beautiful"
+in Pointer name l;
+
+
+==============
+BUCKET
+-------
+Bucket are used to store key,value data, and Generated Random number
+where datatype may be string ,object ,etc.
+SYNTAX:
+----------
+Bucket<DATATYPE> list = <NEW> Bucket<DATATYPE>(<DATATYPEVALUE>);
+list.KeyAdd(<DATATYPEVALUE>);
+list.add(<DATATYPEVALUE>);
+list.RandomAdd();
+list.Display(list);
+Advantages
+----------
+Using Bucket you can also Retrieve the values stored n position.
+Searching and Insertion is fast than other DTS.
+Random Indexing is possible.
+eg) If you store a duplicate value such Random key will be different.
+It also used to add many values.
+EXTEND
+------
+Extend class is used in CDollar since to provide multiple inheritence
+about 100000000 classes . Extends class also list values in methods and
+constructor values.
+Extend means a Bucket contains List of class and it is also
+Behave like Bucket. So it is also one of the Advanced concepts in CDollar.
+SYNTAX:
+--------
+EXTEND <<DATATYPE>> list11 = <NEW> EXTEND <<DATATYPE>> (STRING);
+list.KeyAdd(<DATATYPEVALUE>);
+list.add(<DATATYPEVALUE>);
+list.RandomAdd();
+list.Display(list);
+Advantages:
+It is also used to add many values
+Indexing is possible
+Value can also be list by index and behave like bucket.
+It list only the class value and object value.
+It is stateless.
+PIPE:
+-----
+PIPE is used to maintain stateful state.
+It is used for DataFlow in a Program. We can also add the values,
+Constructor values of one class and other class and display it.
+It also list the values from the Bucket.
+
+SYNTAX:
+-------
+Pipe <<DATATYPE>> list11 = <NEW> Pipe <<DATATYPE>> (STRING);
+list.KeyAdd(<DATATYPEVALUE>);
+list.add(<DATATYPEVALUE>);
+list.RandomAdd();
+list.Display(list);
+Why we Prefer CDollar for software Field?
+Used in BILLS, Forms ,Reports,Charts, any software project , GRAPHICS to web etc.
+
+CHDollar ADvantages over JAVA and other Programming Languages
+----------------------------------------------------------------------------------
+A) CHDollar is the combination of JAVA , C/C++, and Advanced OOPS.
+b) CHDollar will only accept the shortest attractive syntax.
+c) CHDollar also used for construction of any datastructures.
+d) CHDollar helps the developers to provide inheritance by not using extends
+keyword
+and call the class in main program when use in linux.
+e)  it  is   easy  to   focus  ,learn and  use.
+f) It also supports friendly function, pointers , and structures.
+g) CHDollar support Virtual memmory and garbage collection.
+h) It is efficient, fast and easy to understand, and it is a OOPS Technology.
+i) CHDollar is a High level language.
+j) CHDollar is highly portable language
+k) Using CHDollar you can create any datastructures as libraries and
+use it in your Application program.
+l) CHDollar language is a structured and object programming language.
+m) CHDollar has OOPS concepts like JAVA.
+n) CHDollar have the concept of Packages,etc.
+o) CHDollar have the concept of constructor or destructor and had magic oops concepts.
+p) It Support functions with Default Arguments
+q) It Supports Exception handling
+r) It Support Generic Programming
+s) It have pointer and Nodes..
+t) CHDollar is much simpler oops concepts, which leads to faster development and less mental overhead.
+u) CHDollar is almost always explicitly compiled
+w) CHDollar is easy to learn. CDollar was designed to be easy to use and is therefore easy to write,compile, debug, and learn than other programming languages.
+CHDollar is object-oriented. This allows you to create modular programs and reusable code.
+CHDollar is platform-independent.
+x) CHDollar creates  .class,  .exe  or  .dll   files   and  it  can be  used  with   CHDollar  main  program.     
+y) CHDollar will compile and run at same time where other technology can't
+do
+z) CHDollar is mainly used in complex programming , Billing the
+goods,Graphics,etc
+AA) CHDollar is an interactive Technology.
+BB)  CHDOLLAR  is    used  as  a  remote  webapplication
+
+
+FAQS
+------
+A) A C /C++ Programmer or any oops developer or   java  programmer   or  C#  programmer  
+ can easily study it....
+
+========================================================================
+UNIT -3 :CHDOLLAR  Program Syntax  AND ADVANCED   CONCEPTS  PROGRAM.
+========================================================================
+Syntax:
+
+<CHDollar>
+
+<PACK> <nAMESPACE>
+<%
+    <CLASS> <CLASSNAME>
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+            
+<!  CHDOLLAR  LOGIC!>              
+               
+     
+
+%>
+
+?>
+
+
+
+
+
+BAG
+=====
+Bag is the extension of LinkedHashmap and it is the fastest
+datastructures than Dictionary.
+
+SYNTAX:
+=======
+
+
+Bag object = new Bag();
+object .put(key,value);
+Functions
+getValues(key) => it is used to get the values for a particular key
+get(key,loc) => it is used to get the value stored at a loc (indexing
+purpose)
+boolean containsValue(object Value) => To check the value present in bag or
+not.
+put(key,value) => it is used to add key and value in Bag
+remove(key ,value) => It is used to remove key and value.
+
+
+
+TreeList
+========
+
+TreeList simillar to Bucket but store items in tree format.
+
+TreeList list = new TreeList ("BUCKETS");
+list.KeyAdd(KEY);
+list.add(VALUE1);
+list.RandomAdd(RANDOMNO);
+list.DisplayO(list,0);
+
+
+MASK
+====
+It is the extension of Tree Structure and it can store many values
+using mask object and we can also retrieve the values stored in mask.
+Mask m = new Mask(<DATATYPE>);
+m.add(multiple values);
+m.getR(Loc); => Get the values stored in right position
+m.getL(LOC) => Get the values stored in left position
+
+
+HEAP:
+====
+
+
+Creates a tree , puts the data into tree in a fairly balanced way and displays
+the tree's size and data in a tree by performing an inorder traversal.
+Heap hob = new Heap(<datatype>);
+hob.add(datum);
+hob = new Heap(key,value1,value2);
+
+
+
+Bucktist
+==========
+
+
+
+Bucktist is similalr to Bucket but it is used to addd two values with one
+key.
+Bucktist l = null;
+l= new Bucktist(key,value1,value2);
+
+
+WICKET
+=======
+Wicket is used to store multiple values using same object with
+4 values per key.
+
+Syntax:
+
+Wicket list12;
+list12=new Wicket(key,v1,v2,v3,v4);
+list12.Display();
+list12.Display(list12,location);
+
+
+
+
+EXAMPLE -1: BAG
+
+<CHDollar>
+
+<PACK> MyP
+<%
+    <CLASS> Programs
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+            
+        Bag  b <NEW> Bag();
+
+b.PUT(1,34);
+b.PUT(2,444);
+
+<PRINTLN>(""+b);
+              
+               
+     
+
+%>
+
+?>
+
+
+EXAMPLE:2  : CDOLARARRAYS
+==========
+
+<CHDollar>
+
+<USE> <CDOLLARS>.util;
+
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+         
+        public FLOAT CHDollar-MAIN()
+        {
+            
+
+<AList>  ar <NEW> <AList> ();
+ for  (int  i=0;i<=100000;i++)
+ ar.add(i);
+
+ 
+ 
+ 
+ <CDOLLARARRAYS> list1 <NEW>  <CDOLLARARRAYS>("ANIMALS ");
+        list1.add("1 horse");
+ list1.add("2 pig");
+ list1.add("3 cow");
+ list1.add("4 goat");
+ list1.add("5 chicken");
+ 
+ list1.add("6 ostrich");
+ list1.add(ar.StringConvert());
+ list1.Display();
+
+ 
+              
+               
+     %>
+
+?>
+
+
+EXAMPLE-3: CREATE  AN  BOOTLOADER   Using  CDOLLAR
+
+ <CHDollar>
+
+<PACK>  MYOS
+{
+    <CLASS> MYOs
+    {
+public FLOAT CHDollar-MAIN(){
+
+
+<PRINTLN>("HelloWorld  for  booting  MYOS");
+
+          
+               
+     %>
+
+?>
+
+
+
+
+EXAMPE-4: POINTERS
+
+
+<CHDollar>
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+            
+
+ <Str>  s="dsdds";
+ 
+ {*} l Pointers (s);  
+ 
+l.add(s);
+ 
+ for (int i = 0; i NOT= l.size(); i = i + 1)
+ {
+ 
+ <OBJECT> obj=l.GETKEY(i);
+ <PRINTLN>(obj);
+ 
+ 
+ 
+ }
+ 
+ 
+              
+                
+               
+     %>
+
+?>
+
+
+EXAMPLE-5: DICTIONARY
+
+
+<CHDollar>
+<USE> System.Collections.Generic;
+
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+         
+        public FLOAT CHDollar-MAIN()
+        {
+            
+
+ Dictionary<string, string> openWith  <NEW>  Dictionary<string, string>();
+openWith.Add("txt", "notepad.exe");
+openWith.Add("bmp", "paint.exe");
+openWith.Add("dib", "paint.exe");
+openWith.Add("rtf", "wordpad.exe"); 
+              
+             
+               
+     %>
+
+?>
+
+
+
+Example-6: EXTEND
+
+
+
+<CHDollar>
+
+<IMPORT>
+
+
+
+<PACK> MyP
+
+<%
+    <CLASS> Programs
+    <%
+        public FLOAT CHDollar-MAIN()
+
+        {
+ 
+ 
+ EXTEND list <NEW> EXTEND("BUCKETS");
+ 
+ 
+ 
+ 
+      list.KeyAdd("1101");  
+                    
+                     list.add("jemin");
+                     
+                     list.RandomAdd();    
+                     
+                     list.Display(list);
+                    
+<PRINTLN>(""+list.DisplayO(list,1));
+
+ 
+%>
+
+
+?>
+
+
+EXAMPLE-7: HEAP
+
+
+
+
+
+<CHDollar>
+
+
+<PACK> MyP
+{
+      <CLASS> Programs
+    {
+         public FLOAT CHDollar-MAIN()
+        {
+ 
+
+ Heap root <NEW> Heap("wilmix");
+ 
+ for (int i = 0; i <= 10; i = i + 1)
+ {
+ root.add("item " + i);
+ }
+                 
+ <PRINTLN>(root.size() );
+ root.printTree();
+
+          
+               
+     %>
+
+?>
+
+
+
+Example-8: LArray
+
+
+<CHDollar>
+<USE> <CDOLLARS>.util;
+
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+          public FLOAT CHDollar-MAIN()
+        {
+ 
+ LArray root <NEW> LArray("root");
+ 
+ <AList>  ar <NEW>  <AList>();
+ 
+ 
+ for  (int  i=0;i<=1000;i++)
+ 
+ ar.add(i);
+ 
+ root.add("wilmix");
+ root.add("jemin");
+ root.add("shalom");
+ root.add("1010");
+ root.add("101");
+ root.add("201");
+ root.add(ar.StringConvert());
+ root.add("100000000");
+ //print the tree's size and contents
+ 
+ root.printTree();
+
+
+
+          
+               
+     %>
+
+?>
+
+
+Example-9 : PIPE
+
+
+
+
+<CHDollar>
+
+<PACK> MyP
+
+{
+    <CLASS> Programs
+    {
+public FLOAT CHDollar-MAIN()
+        {
+ 
+
+Pipe list  <NEW> Pipe("BUCKETS");
+ 
+ 
+ 
+ 
+      list.KeyAdd("1101");  
+                    
+                     list.add("jemin");
+                     
+                     list.RandomAdd();    
+                     
+                     list.Display(list);
+
+<PRINTLN>(""+list.DisplayO(list,1));
+
+ 
+          
+               
+     %>
+
+?>
+
+
+
+
+EXAMPLE-10: TREELIST
+
+
+
+<CHDollar>
+
+<PACK> MyP
+
+{
+    <CLASS> Programs
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+ 
+
+
+TreeList list  <NEW> TreeList ("BUCKETS");
+ 
+ 
+ 
+ 
+ 
+ 
+      list.KeyAdd("1101");  
+                    
+                     list.add("jemin");
+                    
+                     
+                     list.RandomAdd("1111");   
+
+TreeList list2 <NEW> TreeList("BUCKETS");
+ list2.KeyAdd("1102");  
+                    
+                     list2.add("rahul");
+                    
+                     
+                     list2.RandomAdd("1112");
+                     
+                 
+
+
+<PRINTLN>("DATA="+list.DisplayO(list,0));
+
+
+<PRINTLN>("DATA="+list2.DisplayO(list2,0));
+
+          
+               
+     %>
+
+?>
+
+
+Example-11 : MASK
+
+
+
+
+<CHDollar>
+<USE>  <CDOLLARS>.util;
+
+
+<PACK> My
+{
+    <CLASS> Programs
+    {
+           public FLOAT CHDollar-MAIN()
+        {
+ 
+
+ MASK root <NEW> MASK("wilmix");
+ 
+ for (int i = 0; i NOT= 10; i = i + 1)
+ {
+ root.add("item " + i);
+ }
+             
+ 
+ 
+ 
+ 
+ root <NEW> MASK("root1",1211211,54441);
+ 
+ root  <NEW> MASK("root2",121121,5444);
+ root  <NEW> MASK("root5",99121888,"5");
+ 
+ root  <NEW> MASK("root3",12112,544);
+ 
+ root  <NEW> MASK("root4",1211,54);
+ 
+ root  <NEW> MASK("root51",121,5);
+ 
+ 
+ root.printTree();
+ 
+
+
+          
+               
+     %>
+
+?>
+
+
+
+
+
+Example-12 : WICKET
+
+
+<CHDollar>
+
+
+<PACK> MyPo
+{
+    <CLASS> Programs
+    {
+           public FLOAT CHDollar-MAIN()
+        {
+ Wicket  list12;
+ list12 <NEW> Wicket(1000,10002,43433,4343,5555451);
+ list12 <NEW> Wicket(10001,100021,434331,4343,5555452);
+ list12 <NEW> Wicket(10002,100022,434332,4343,5555453);
+ list12 <NEW> Wicket(10003,100023,434333,4343,5555454);
+ list12 <NEW> Wicket(10004,100024,434334,4343,5555455);
+ list12 <NEW> Wicket(10005,100025,434335,4343,5555456);
+ 
+ 
+ list12.Display(list12);
+ 
+ <PRINTLN>("DATA="+list12.DisplayO(list12,0));
+                 
+          
+               
+     %>
+
+?>
+
+
+Example-13 : STRUCTURE
+
+
+<CHDollar>
+<PACK> MyPoi
+{
+    <CLASS> Programs
+    {
+          public FLOAT CHDollar-MAIN()
+
+        {
+            
+
+ <Str>  s="dsdds";
+ 
+ {*} l Pointers(s);  
+ 
+l.add(s);
+ 
+ for (int i = 0; i NOT= l.size(); i = i + 1)
+ {
+ 
+ <OBJECT> obj=l.GETKEY(i);
+ <PRINTLN>(obj);
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ <STRUCTURE>  list <NEW> <STRUCTURE> (l.GETKEY(0));
+ 
+ for (int i11 = 0; i11 NOT= list.size(); i11 = i11 + 1)
+ {
+ 
+ 
+ 
+ <OBJECT>  el=list.ret(i11);
+ 
+
+ 
+ <PRINTLN>("SNO= "+el);
+
+                }
+              
+            
+               
+     %>
+
+?>
+
+
+
+
+Example-14 : BUCKETIST
+
+bucketist.java
+<CHDollar>
+
+
+<PACK> MyP
+{
+    <CLASS> Programs
+    {
+          public FLOAT CHDollar-MAIN()
+        {
+ 
+
+
+
+
+Bucketist  bp    <NEW>  Bucketist("wilmix");
+
+bp    <NEW>  Bucketist(1,222,434);
+bp   <NEW>  Bucketist(1,222,434);
+
+
+bp.Display(bp);
+
+
+<PRINTLN>("DATA="+bp.DisplayO(bp,1));
+          
+               
+     %>
+
+?>
+
+
+
+
+
+Note:  This  CHDOLLAR - Tutorial- EXERCISES   is  a  Practical  Exercises    for CDollar  Programmers  we  can  use  CHDOLLAR-LIB DLL     in  CHDollar   program
+
+
+==================================================================================
+UNIT:4  :  CJAVA ,  CHDOLLAR  with  WDBA DB
+==================================================================================
+CJAVA
+CJAVA  is   a    crosscompiler  simillar   to  java it  is  build  on  C# Platform.
+So  those  who   brush  with  Core JAVA  concepts  can  easily  focus  it.
+IT  is   used  for  testing   the  cdollar  program.
+CJAVA  graphics  are  beautiful  like  C#   Graphics    Program.
+
+SYNTAX:
+========
+<accessmodifier>  class
+{
+public  static  void  main(String args[])
+{
+<!  CORE JAVA LOGIC  !>
+}
+
+} 
+
+
+a)Write  a   CJAVA Swing  program    and  print  it  in  tree  format.
+
+import java.awt.BorderLayout;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JScrollPane;
+import javax.swing.JTree;
+import javax.swing.SwingUtilities;
+import javax.swing.event.TreeSelectionEvent;
+import javax.swing.event.TreeSelectionListener;
+import javax.swing.tree.DefaultMutableTreeNode;
+import javax.swing.tree.DefaultTreeCellRenderer;
+ 
+
+ 
+public class TreeExample extends JFrame
+{
+    private JTree tree;
+    private JLabel selectedLabel;
+     
+    public TreeExample()
+    {
+        //create the root node
+        DefaultMutableTreeNode root = new DefaultMutableTreeNode("Root");
+        //create the child nodes
+        DefaultMutableTreeNode vegetableNode = new DefaultMutableTreeNode("Vegetables");
+        vegetableNode.add(new DefaultMutableTreeNode("tamilnadu"));
+        vegetableNode.add(new DefaultMutableTreeNode("kerala"));
+        vegetableNode.add(new DefaultMutableTreeNode("karnataka"));
+        vegetableNode.add(new DefaultMutableTreeNode("Andrapradesh"));
+         
+        DefaultMutableTreeNode fruitNode = new DefaultMutableTreeNode("City");
+        fruitNode.add(new DefaultMutableTreeNode("chennai"));
+        fruitNode.add(new DefaultMutableTreeNode("ernakulam"));
+        fruitNode.add(new DefaultMutableTreeNode("bangalore"));
+        fruitNode.add(new DefaultMutableTreeNode("hyderabad"));
+        fruitNode.add(new DefaultMutableTreeNode("nageocoil"));
+ 
+        //add the child nodes to the root node
+        root.add(vegetableNode);
+        root.add(fruitNode);
+         
+        //create the tree by passing in the root node
+        tree = new JTree(root);
+ 
+        ImageIcon imageIcon = new ImageIcon(TreeExample.class.getResource("leaf.jpg"));
+        DefaultTreeCellRenderer renderer = new DefaultTreeCellRenderer();       
+        renderer.setLeafIcon(imageIcon);
+         
+        tree.setCellRenderer(renderer);
+        tree.setShowsRootHandles(true);
+        tree.setRootVisible(false);
+        add(new JScrollPane(tree));
+         
+        selectedLabel = new JLabel();
+        add(selectedLabel, BorderLayout.SOUTH);
+ 
+        tree.getSelectionModel().addTreeSelectionListener(new TreeSelectionListener() {
+            @Override
+            public void valueChanged(TreeSelectionEvent e) {
+                DefaultMutableTreeNode selectedNode = (DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
+                selectedLabel.setText(selectedNode.getUserObject().toString());
+            }
+        });
+         
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setTitle("JTree Example");       
+        this.setSize(200, 200);
+        this.setVisible(true);
+    }
+
+
+
+
+     
+    public static void main(String args[])
+    {
+        SwingUtilities.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                new TreeExample();
+            }
+        });
+    }       
+}
+
+How  to   compile    chdollar  program?
+
+CDC  <filename>.java
+
+filename.java  is into  two  forms
+
+they  are   CHDollar-java
+ 
+and  the  other  one  is  
+
+CHDollar-oops  and  .C$  oops 
+
+to  create   .dll  file.
+
+
+
+CHDOLLAR  PROJECT   STRUCTURE
+
+ 
+
+
+
+
+
+================================================================
+
+
+UNIT-5:  CH$  Remote  Webpage  Syntax  
+
+===============================================================
+
+
+SYNTAX to  execute  executable files  by  remoteserver:
+
+
+RuntimeExec.call("EXECUTABLEFILENAME")
+
+
+What  is  the  syntax  to  get and  spliting  the  parameters ?
+
+
+String  ar="";
+ar=hitcount.requestParam(index) =>  it  is  used  to  get   the
+
+server  parameters
+
+hitcount.SplitParam(ar)=>  it  is  used   to  
+split  the  parameters.
+
+
+hitcount.params.get(index).to<Str>()=>
+
+It  is   use  to  get   the  values  of   the  parameter.
+
+
+this  3  statements   are  mandaltory   eg)
+
+to  get   the  value  from   WeBGui like  text  box  ,etc.
+
+ 
+
+HTML.displayhtml("filename.html") =>  it  is  used  to  print  the  html  form contents  
+in  the  webpage. and  it  is  used in  CHDOLLAR-AJAX.
+
+
+
+CHDollar.out.println("printstring") =>
+It is  used  to  print  the  string or  value to  the  webpage
+
+
+
+Write   a    CHDOllar  Program with  GDollar  module(use  Book dts):
+
+TS.java
+
+<CHDollar>
+
+
+<PACK> TS
+<%
+    <CLASS> Y
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+         
+
+ 
+BOOK  u   <NEW>  BOOK("Wilmix");
+
+for (int i=0;i<=100;i++)
+u.add("col"+i);//add  the  values to  book 
+
+for (int i=0;i<=100;i++)
+<PRINTLN>(""+u.ret(i));// print  the book values
+
+%>
+
+?>
+
+
+Write   a   Remote  webpage   program using  CH$?
+
+a)tre.java
+========
+
+<CHDollar>
+
+
+<PACK> HierachialTree
+<%
+    <CLASS> roots
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+         
+
+ Bag  tree <NEW> Bag();
+ 
+  Bag  Member <NEW> Bag();
+
+  //add  a,b,c,d to  class5  section and class6   to  class6 section
+      
+Member.PUT("A","CLASS5");
+Member.PUT("B","CLASS5");
+Member.PUT("C","CLASS5");
+Member.PUT("D","CLASS5");
+Member.PUT("CLASS6","CLASS6");
+
+//add  s1,s2,s11,s21,s12,s22  slibings.
+
+ Bag  slibings <NEW> Bag();
+slibings.PUT("A","s1");
+slibings.PUT("A","s2");
+slibings.PUT("B","s11");
+slibings.PUT("B","s21");
+slibings.PUT("C","s12");
+slibings.PUT("C","s22");
+
+//add  cricket,read,swin  to  activities..
+
+Bag  activity <NEW> Bag();
+activity.PUT("s1","cricket");
+activity.PUT("s2","read");
+activity.PUT("s21","swim");
+activity.PUT("s12","swim");
+tree.PUT(1,Member);
+tree.PUT(2,slibings);
+tree.PUT(3,activity);
+
+
+activity.remove("s1","cricket");
+//remove  cricket  activity
+tree.remove(3,activity);
+//remove  activity  object
+tree.PUT(3,activity);
+//again  put the  activity  to  3  index
+
+//so  what will be  the  output?
+
+
+<PRINTLN>("output="+tree.containsValue(Member));
+//this  print  statement  will   print  output=true
+  
+//this  print  statement  will  print  tree  values
+   <PRINTLN>("output="+tree);  
+
+%>
+
+?>
+
+compilation
+
+CDC  tre.java
+
+Output
+========
+
+ 
+
+
+
+=> rename  tre.java.exe  as  tre.exe
+
+
+How  to   start the  server?
+
+
+start  the  server using 
+
+server 8080 localhost /
+
+
+Write   a   remote  webpage  program  for  that?
+
+
+abc.CH$
+
+<CHSAUCER> =>starting  of  remote wepage  program
+@Remote => load CH$  packages
+
+
+ 
+
+<%
+
+
+
+public  class  abc
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>  => CH$ main program
+{
+
+CHDollar.out.println(""+RuntimeExec.call("Tre"));
+
+//use  RuntimeExec.call  to  execute .exe  programs
+
+
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+
+OUTPUT
+=======
+
+ 
+
+
+
+b)CH$ remote webpage  using  BOOK dts
+
+
+<CHDollar>
+
+
+<PACK> TS
+<%
+    <CLASS> Y
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+         
+
+ 
+BOOK  u   <NEW>  BOOK("Wilmix");
+
+for (int i=0;i<=100;i++)
+u.add("col"+i);
+
+for (int i=0;i<=100;i++)
+<PRINTLN>(""+u.ret(i));
+
+%>
+
+?>
+
+
+follow  the  same  procedure  as  i said  above..
+
+and  create  a   remotewebpage  for  that.....
+
+
+abc1.CH$
+
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  abc1
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+{
+
+CHDollar.out.println(""+RuntimeExec.call("TS"));
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+
+
+Output:
+
+
+ 
+
+
+
+c)  Create   a    CH$ using  wnosql  db
+
+wdba.java
+
+<CHDollar>
+
+<USE> CDollar.WDBA;
+
+<USE> WDBA;
+
+<PACK> TSwdba
+<%
+    <CLASS> Ywdba
+    {
+        public FLOAT CHDollar-MAIN()
+        {
+         
+
+ 
+string g = WDBASQL.WDBASQLS("datastores", "USEDATABASE", "dbpwds", "C:\\Prog\\WNOSQ\\WNOSQL\\WNOSQL-cod"); 
+//path where  .wdba  serverer files  is  stored  
+
+           
+
+
+            string t = WDBASQL.WDBASQLS("dbuser", "dbpwds", 1, "wilmix78", "wilmix78", 1, 5, g);
+//supply  username  and  password
+
+           
+            string s11 = "RIGHTJOIN from student 0 to 1 , 1 to 4 ?= emp For X f(x) : {0,1,2,3,4,5,6,7,8,9,10,11} : {0,1,2,3,4,5,6,7,8,9,10,11} : {0}";
+
+//perform  right  join  between   student  and  employee
+
+ string s1 = "SelectAll from student 0 to 1 , 1 to 4 ?= XXX By X f(x) : {0,1,2}: {3,4,5} :{2,4}";
+
+//select *  from  stodent  from  0   to  1
+
+            
+            <PRINTLN>(""+SQL.WDBAQUERY(  s1,  t));
+//print   the   select(*) Query
+            <PRINTLN>("" + SQL.WDBAQUERY(s11, t));
+//Print  rightjoin  query
+
+
+%>
+
+?>
+
+
+compile  using  cdc wdba.java and  create wdba.exe 
+
+
+put  it  in CH$/bin directory
+
+
+abc6.CH$
+
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  abc6
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+{
+
+CHDollar.out.println(""+RuntimeExec.call("wdba"));
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+
+
+OUTPUT:
+
+
+ 
+
+
+===============================================================
+UNIT-6:
+=======
+CH$  AJAX ,CH$  Forms , Bills,etc,Animation  and  Graphics
+
+
+================================================================================== 
+
+CHDOLLAR  SERVLET
+CHDollar.out.println("string");
+this   above   statement  will  print  the string  on the  webpage  will
+act like  chdollar  servlet
+CHDOLLARAJAX
+CHDollar.out.println("<form action=BILL.CH$ method=post>");
+if  BILL.CH$  is  the  current  CH$ program  when  you  give
+method=post  and  action=CH$  it will act like  CH$  AJAX.
+
+CHDOLLAR WXML  METHODS
+
+SYNTAX:
+WXML.wxml<PARSE>r("filename.wxml", wxmlindex,string+"");
+
+for  example)
+WXML.wxml<PARSE>r("bill.wxml", 4,s3+"");
+=> this  statement  is    used  to print  bill , Forms,TABLES.
+
+4=> indicates  bill  format
+1=> indiactes  Forms
+2=> indicates TABLES
+
+
+
+Program-1:  Write  a  CH$  program   for  CH$ AJAX  ,Forms  ,  and  BILLS for  online bills 
+BILL.CH$
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  BILL
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+{
+
+
+
+
+
+CHDollar.out.println("<html>");
+CHDollar.out.println("<head><title>Welcome   to  Online BILLING  </title></head>");
+CHDollar.out.println("<center> <U> Welcome   to  Online BILLING  </u> </center>");
+CHDollar.out.println("<body bgcolor=blue> ");
+CHDollar.out.println("<TABLE  bgcolor=pink> ");
+CHDollar.out.println("<TH>Welcome   to  ONLINE BILLING  WEBPAGE <TH>");
+CHDollar.out.println("<TD> ");
+
+CHDollar.out.println( "</td>");
+CHDollar.out.println("</TABLE>");
+
+
+CHDollar.out.println("<form action=BILL.CH$ method=post>");
+
+ CHDollar.out.println(" <label for=id>ID</label>");
+  CHDollar.out.println("<input name=id />");
+  CHDollar.out.println("<br/>");
+  CHDollar.out.println("<label for=summary>BILLDETAILS</label>");
+ CHDollar.out.println(" <input name=summary />");
+  CHDollar.out.println("<br/>");
+  CHDollar.out.println("Description:");
+ CHDollar.out.println(" <TEXTAREA NAME=description COLS=40 ROWS=6></TEXTAREA>");
+  CHDollar.out.println("<br/>");
+ CHDollar.out.println("AMT:");
+ CHDollar.out.println(" <input type=text name=t1></TEXTAREA>");
+
+  CHDollar.out.println("<input type=submit value=Submit />");
+ CHDollar.out.println(" </form>");
+CHDollar.out.println("</html>");
+
+String  ar="";
+ar=hitcount.requestParam(0);
+
+hitcount.SplitParam(ar);
+
+
+String  s1= hitcount.params.get(hitcount.params.size()-2).to<Str>();
+
+
+double  s3= (Integer.<PARSE>Int(s1)  *10000)/3; 
+CHDollar.out.println("Total  bill="+s3);
+
+WXML.wxml<PARSE>r("bill.wxml", 4,s3+"");
+
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+Output:
+
+ 
+
+CHDOLLAR  MVC
+CHDOLLAR  MVC   is  userdefined  it   is   very  easy for  developers
+to  focus like struts.
+take  3 class  Model(wdba  database code) , formview  (with set  and get  methods),
+controller .
+call    controller  class   result   to  CH$  main  program
+
+ie)
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+{
+
+
+String  ar="";
+ar=hitcount.requestParam(index);
+hitcount.SplitParam(ar);
+
+
+String name=hitcount.params.get(index).to<Str>;
+
+//this    statements   are  mandaltory   eg)
+
+//to  get   the  value  from   WeBGui like  text  box  ,etc.
+
+
+controller.set(name); //set  form values.
+CHDollar.out.println(controller.get());
+//this   statement  will print  the  output  in webpage
+}
+
+
+CH$  GRAPHICS
+html1.html
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Image to use:</p>
+<img id="scream" src="http://www.en.planettours.bg/02/images/Bodrum/thumbnail.ashx.jpeg" alt="The Scream" width="220" height="277">
+
+<p>Canvas to fill:</p>
+<canvas id="myCanvas" width="250" height="300"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<p><button onclick="myCanvas()">Try it</button></p>
+
+<script>
+function myCanvas() {
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    var img = document.getElementById("scream");
+    ctx.drawImage(img,10,10);
+}
+</script>
+
+</body>
+</html>
+
+graphics.CH$
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  graphics
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+
+{
+
+HTML.displayhtml("html1.html");
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+Animate with  JQUERY
+animate.html
+
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        var div = $("div");
+        div.animate({left: '500px'}, "slow");
+        div.animate({fontSize: '3em'}, "slow");
+    });
+});
+</script>
+</head>
+<body>
+
+<button>Start </button>
+
+
+<div style="background:#98bf21;height:100px;width:200px;position:absolute;">WELCOME TO CH$ </div>
+
+</body>
+</html>
+
+
+animate.CH$
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  animate
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+
+{
+
+HTML.displayhtml("animate.html");
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+
+OUTPUT:
+
+ 
+ 
+CH$ with  ANGULAR JS
+ang.html
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+
+<div ng-app="">
+ 
+<p>Kindly  type in  the  text  box:</p>
+<p>Name : <input type="text" ng-model="name" placeholder="Enter your  favourite language"></p>
+<h1>Welcome  to {{name}} Programming!</h1>
+
+</div>
+
+</body>
+</html>
+
+  
+angular.CH$
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  angular
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+
+{
+
+HTML.displayhtml("ang.html");
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+OUTPUT:
+
+ 
+
+bootstrap.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>MY HOMEPAGE</h2>
+  <p>MY  HOME  PAGE</p>
+  <ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">ABOUTME</a></li>
+    <li><a href="#">FAQS</a></li>
+    <li class="active">Contactme</li>
+  </ul>
+</div>
+
+</body>
+</html>
+
+
+angular.CH$
+
+<CHSAUCER>
+@Remote
+
+
+ 
+
+<%
+
+
+
+public  class  angular
+
+{
+
+
+
+
+
+public void  CHDOLLAR-Main( ) throws <EXE>
+
+{
+
+HTML.displayhtml("bootstrap.html");
+}   
+
+}
+
+%>
+
+</CHSAUCER>
+
+OUTPUT:
+ 
+
+
+===============================================================
+UNIT-7:
+=======
+CHDOLLAR  Program  DEVELOPER EXERCISES
+
+
+================================================================================== 
+
+CHDOLLAR  Programming  EXERCISES: 
+(1  *50  =50 marks)
+
+A)  What   is  CH$?  why it is   used?  state   the  advantages  
+and  disadvantages    of  CH$. 
+(1*5 = 5 marks)
+
+B) Write   a  CH$ Program   for Telephone Bill? (1*5 = 5 marks)
+c)  write   a   CH$   program  with   C#   to build  a  tree structure   in   CH$ webpage
+ (1*10 = 10 marks)
+
+d) Write   a  CH$  Program  to  build  a    remote  webapplication  to  enter  all
+student    details    in   a   form   and  store  it   using  wnosql  database.
+after  that update  it ,retrieve  it   and  print  the  webpage.
+(1*10=10 marks)
+e) Write a  CH$   program   with  JQUERY  or  bootstrap to list   the  contents  
+from  wnosql  database    and  print   it  in   table  format. (1*5= 5 marks)
+
+f)  Write   a   CH$  MVC  program  (1*10 =10 marks)
+to  check  whether  the   student  name  present  or  not  from  student form  with  wnosql
+and  create fields  using  wnosql  db  with name,course,dateofjoin,dateoffinish, and  status.
+and  perform   logic  in  model   class
+like
+if  (course=="java")
+amt="2000"
+else
+if  (course=="c/c++")
+amt="10000"
+else
+if  (course=="dotnet")
+amt="15000"
+else
+if  (course=="php")
+amt="5000"
+else
+if  (course=="mgt")
+amt="25000"
+
+if  the  student   did not   payed    the  fees  mark the  status  as 
+"unpaid"   otherwise  mark  the  status   "paid".
+after  that  list   all  paid and   unpaid people   in   
+a seperate webpage.
+
+g)  Write  briefly  about   the workflow  of  CH$  Program.(1 *5=5 marks)
+  
+    
+    note:  kindly  see   CHDollar  pdf for  more  details.  
+
+
+
+==================================================================================
+                                      THE    END   OF   CHDOLLAR       TUTORIAL
+==================================================================================
