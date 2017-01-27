@@ -67,3 +67,4 @@ shortly  when   client   send  a  request  to  a  remotserver  ;
 
 Note:chdollar project  is started at  google code   and  it  is  modified  at github.
 
+and  CHDollar p.l  came   by Jesus christ wisdom.
