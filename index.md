@@ -16,7 +16,11 @@
   exchanged through out  sessions.
   
   
-  eg)  When  you enter   details  using  CH$  program  that   creates   a   data  object
+  
+  example)
+  ========
+  
+  When  you enter   details  using  CH$  program  that   creates   a   data  object
   
   called  as .dsn  file;  that can  be  exchanged  through  out   sessions.
   
