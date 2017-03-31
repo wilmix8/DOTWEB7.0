@@ -3,6 +3,52 @@
  CDOLLAR OOPS, GDOLLAR OOPS,used in Remote  WebApplication , and Advanced  OOPs. It  is  mainly  used  as a   Remote Webappilication.
  It is used in case of Billing,Forms ,normal  remotewebapplication ,   CH$-GRAPHICS ,and complex problems.
  
+ 
+  
+  What   is  the  difference   between Remotewebapplicationserver  and  webserver?
+  ================================================================================
+  
+  Definition:  Remote  webserver  application    is   an  application    operates    with
+  ============
+  
+  client-server.but  it  will  post  and  get  objects   from  server that  can  be
+  
+  exchanged through out  sessions.
+  
+  
+  eg)  When  you enter   details  using  CH$  program  that   creates   a   data  object
+  
+  called  as .dsn  file;  that can  be  exchanged  through  out   sessions.
+  
+  Difference  between   webserver  and  remoteserver  means   remotserver  
+
+has   remote-client  connection  but  webserver don't have.
+
+Data flow  is  unknown   using  J$  architecture.  where   as  in   
+
+webserver  and  application server  like  tomcat,JSTAR SERVER,Jboss server,  etc;  here  dataflow  is  known.
+
+JSTAR  webserver   is used   only   for  webdesign  so   we  don't  focus   remoteserver.
+
+In webserver  data  will   be   sent  between  client(browser)  and  server
+
+is  known  to users.
+
+so  this   indicates   webserver   has  no  security  but  remoteserver  using  J$  architecture
+
+has  more   security  according  to  research.
+
+Remoteserver   uses http +  socket  connection    where   as webserver uses   only  http  connection
+
+Remote web  application server  =>  webserver  +  Applicationserver +  datasecurity.
+
+So J$ is  most  advanced in  security   side. but  it  has  more  framework  and  latest technology
+
+and  follows  shortest  code    than  any  technology and  including  advanced  business and  many  advantages
+
+over  other  technologies.
+
+ 
  ABOUT CHDOLLAR Programming Language
 ---------------------------------------------------
 It is concenterated in building and designing Advanced Operating systems.
