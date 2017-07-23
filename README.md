@@ -1898,12 +1898,28 @@ There   are    4  modules   present  in  CHDollar...
 4)  CHDOLLAR  with  JDollar(JWEB)  Technology...
 
 
+
+What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
+==========================================================
+
+CH$  is  used  in  variety  of  remote  webapplication  like  ATM  banking,  biometric,
+
+Reservation  like  bus,train,cinema  ticket,etc.
+
+
+
 Why  we  focus  CHDollar?
 ===========================
 
 Suppose  a   banking  customer  want  to  update  his  account  
 
 in  banking  website..  That  data  or  information   is  stolen    hackers..
+
+SO  CHDollar  is   used   for  security  side.....
+
+Since  we  already  know  the  fact  that if   you use  .exe or  .dbs   file  in  CHDollar  then
+
+it  will   be  more  safe..
 
 So  CHDollar is    focused  ....
 
