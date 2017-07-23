@@ -30,3 +30,36 @@ Reservation  like  bus,trian,cinema  ticket,etc.
 
 
 
+SYNTAX  for  CHDOLLAR-JSTAR
+============================
+
+
+<JSTAR>
+
+
+
+<LOGIC>
+
+
+public   class  <CLASSNAME>
+
+{
+
+public void main( ) throws  <EXE>
+{
+
+
+
+<!  CHDOLLAR-JSTAR logic  !>
+
+
+
+
+}
+
+}
+
+
+</LOGIC>
+
+</JSTAR>
