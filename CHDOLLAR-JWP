@@ -1,0 +1,96 @@
+
+
+CHDOLLAR-JWP
+============
+
+CHDOllar-JWP   is  simillar  to  JDollar(JWEB)-JWP  the  difference   is  CHdollar-jwp
+
+uses   CHDollar  compiler to  generates   .exe  file   when  .j$  is  compiled  by  CHDollar-jwp Server..
+
+
+SYNTAX  for  CHDollar-jwp to  be used  with  CHDollar  remote  webapplication
+=================================================================================
+
+
+ <JDWEB>
+
+
+<PACK>
+
+
+
+<%
+
+
+
+
+public class <classname> {
+
+
+ public void  JWP-Main( )
+
+
+{
+
+
+<!  CHDollar-JWP  !>
+
+ 
+}
+
+}
+
+
+
+
+
+
+%>
+
+
+</JDWEB>
+
+
+
+
+SYNTAX  for  CHDollar-J$  Model  class
+=======================================
+
+
+
+<?CHDollar> => Starting  of  CHDollar  program
+
+<USE> <WEB>.util; ==>  Load  util  packages
+
+
+<PACK> chdollarnamespace1 => <PACK>  means  namespace
+{
+  
+    <CLASS> chdollarclass1
+   {
+
+  
+      public void Main()
+      {
+
+<PRINTLN>(String);
+      
+ <!   write  chdollar logic  !>
+
+		
+}
+
+
+}
+
+
+Note:  This  Model  class  uses  properties.txt  file to  include  some  chdollar
+
+library  .dll  files..
+
+
+
+
+}
+
+
