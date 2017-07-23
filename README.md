@@ -1879,6 +1879,34 @@ and  now  excecute  in  browser   as  shown   below...
 
 
 
+A) What   are the  modules   present  in  CHDollar?
+===================================================
+
+CHDollar  is  a  wide  topic focused  only   on  
+
+Proxy Remote  Webapplication  with  TYPE-2  (CLient  and  Server)...
+
+
+There   are    4  modules   present  in  CHDollar...
+
+1)  CHDOLLAR  
+
+2)  CHDOLLAR-JSTAR
+
+3)  CHDOLLAR-JWP
+
+4)  CHDOLLAR  with  JDollar(JWEB)  Technology...
+
+
+Why  we  focus  CHDollar?
+===========================
+
+Suppose  a   banking  customer  want  to  update  his  account  
+
+in  banking  website..  That  data  or  information   is  stolen    hackers..
+
+So  CHDollar is    focused  ....
+
 
 
 =========================================END  OF   CHDOLLAR   TUTORIAL===========================================
