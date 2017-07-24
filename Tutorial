@@ -1833,8 +1833,9 @@ use  wdba.exe  and  rename  it   as wdba.CH$.exe
 
 and  now  excecute  in  browser   as  shown   below...
 
-
+====================================================================
 A) What are the modules present in CHDollar?
+===============================================
 
 CHDollar is a wide topic focused only on
 
@@ -1842,17 +1843,18 @@ Proxy Remote Webapplication with TYPE-2 (CLient and Server)...
 
 There are 4 modules present in CHDollar...
 
-CHDOLLAR
+a) CHDOLLAR
 
-CHDOLLAR-JSTAR
+b) CHDOLLAR-JSTAR
 
-CHDOLLAR-JWP
+c) CHDOLLAR-JWP
 
-CHDOLLAR with JDollar(JWEB) Technology...
+d) CHDOLLAR with JDollar(JWEB) Technology...
 
 What are the advantages of CH$ P.L over JSTAR P.L?
+=======================================================
 
-CH$ is used in variety of remote webapplication like ATM banking, biometric,
+CH$ is used in variety of remote webapplication like ATM banking, biometric,finance domain,
 
 Reservation like bus,train,cinema ticket,etc.
 
@@ -1860,9 +1862,9 @@ Why we focus CHDollar?
 
 Suppose a banking customer want to update his account
 
-in banking website.. That data or information is stolen hackers..
+in banking website.. That data or information is stolen by hackers..
 
-SO CHDollar is used for security side.....
+SO CHDollar is used for security side towards banking and finance domain.
 
 Since we already know the fact that if you use .exe or .dbs file in CHDollar then
 
