@@ -25,7 +25,9 @@ It is used in case of Billing,Forms ,normal  remotewebapplication ,
   
   client-server.but  it  will  post  and  get  objects   from  server that  can  be
   
-  exchanged through out  sessions.
+  exchanged through out  sessions  or  with  in   two   computers  ;  where   as   one  act   as  client
+  
+  and  other  act   as   server.
   
   eg)  When  you enter   details  using  CH$  program  that   creates   a   data  object
   
@@ -57,7 +59,13 @@ So J$ is  most  advanced in  security   side. but  it  has  more  framework  and
 
 and  follows  shortest  code    than  any  technology and  including  advanced  business and  many  advantages
 
-over  other  technologies.
+over  other  technologies. When  you  host   Jdollar  or  Chdollar  Servers   in  any  of  your   today
+
+available   hosting   provider.  You   can   see  Jdollar  or   Chdollar   website   at  your  mobile phone
+
+or  at  internet.
+
+SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  Jdollar  p.l   to  publish   the  webpages.
 
 
   
@@ -153,6 +161,7 @@ and all  devices.
 UNIT  -2:  a)  CHDollar  with  CDollar
 ==================================================================================
 CDOLLARARRAYS
+===============
 
 CDollarArrays list1 = new CDollarArrays(string);
 to add any collection objects to array use
@@ -162,7 +171,7 @@ Any class that use CDollarArrays you should extends Array in class...
 
 
 TREEOFARRAY
-
+============
 
 SYNTAX for TreeofArray:
 --------------------------------------
@@ -1924,6 +1933,20 @@ Since  we  already  know  the  fact  that if   you use  .exe or  .dbs   file  in
 it  will   be  more  safe..
 
 So  CHDollar is    focused  ....
+
+
+
+
+Important  note:
+================
+
+When  you  host   Jdollar  or  Chdollar  Servers   in  any  of  your   today
+
+available   hosting   provider.  You   can   see  Jdollar  or   Chdollar   website   at  any  mobile phones
+
+or  at  internet.
+
+SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  Jdollar  p.l   to  publish   the  webpages.
 
 
 
