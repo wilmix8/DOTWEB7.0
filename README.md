@@ -1913,9 +1913,9 @@ Why  we  focus  CHDollar?
 
 Suppose  a   banking  customer  want  to  update  his  account  
 
-in  banking  website..  That  data  or  information   is  stolen    hackers..
+in  banking  website..  That  data  or  information   is  stolen by   hackers..
 
-SO  CHDollar  is   used   for  security  side.....
+SO  CHDollar  is   used   for  security  side  towards banking  and  finance  domain.
 
 Since  we  already  know  the  fact  that if   you use  .exe or  .dbs   file  in  CHDollar  then
 
