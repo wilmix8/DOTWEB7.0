@@ -1,0 +1,90 @@
+CHDOLLAR with  JDollar Banking  and  Finance
+============================================
+
+This   is  focused  on  Banking and  finance  domain  ;  JDollar   when  compiled  in  JDollar  server   generates   .dbs
+
+file  that   cannot  be  understood  by  hackers...
+
+
+
+SYNTAX  for   JDollar-Banking
+============================
+
+
+
+<JDOLLAR>
+@JRemote
+
+
+<%
+
+
+public class  classname
+{
+
+
+
+
+  public void  JDOLLAR-Main( ) 
+
+<%
+ 
+ HTML.displayhtml("html.html");
+ 
+ 
+ <!  JDollar(JWEB)  logic  goes  here  !>
+
+ }
+
+
+
+} 
+
+%>
+
+
+</JDOLLAR>
+
+
+Note:  This   syntax  is used  only  for  Jdollar-banking....   
+
+for  eg)  ATM -Banking  implementation.
+
+
+SYNTAX  for  JDollar-Finance
+===============================
+
+<JDOLLAR-FINANCE>
+
+@JRemote
+
+
+<%
+
+
+public class  classname
+{
+
+
+
+
+  public void  JDOLLAR-Main( ) 
+
+<%
+ 
+ HTML.displayhtml("html.html")
+ 
+ <!  JDollar(JWEB)  logic  goes  here  !>
+ }
+
+
+
+} 
+
+%>
+
+
+</JDOLLAR-FINANCE>
+
+
+
