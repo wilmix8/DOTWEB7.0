@@ -1897,6 +1897,8 @@ There   are    4  modules   present  in  CHDollar...
 
 4)  CHDOLLAR  with  JDollar(JWEB)  Technology...
 
+5)  It  is  used  with  C#  and  Arrow# -  Manufacturing  and  statistics domain
+
 
 
 What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
