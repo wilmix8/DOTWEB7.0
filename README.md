@@ -1079,15 +1079,6 @@ which  can  be  reused  by other  CH$  program.
 CHDollar-JAVA   which  is  used  to  run   .exe   files.
 
 
-
-
-
-
-
-
-
-
-
 ================================================================
 
 
@@ -1896,7 +1887,7 @@ CHDollar  is  a  wide  topic focused  only   on
 Proxy Remote  Webapplication  with  TYPE-2  (CLient  and  Server)...
 
 
-There   are    4  modules   present  in  CHDollar...
+There   are    6  modules   present  in  CHDollar...
 
 1)  CHDOLLAR-CH$ (used  for  normalremotewebapplication)
 
@@ -1908,14 +1899,15 @@ There   are    4  modules   present  in  CHDollar...
 
 4)  CHDOLLAR  with  JDollar(JWEB)  Technology...(Here  JDollar(JWEB)  is  focused)
 
-5)  It  is  used  with  C#  and  Arrow# -  Manufacturing  and  statistics domain
+5)  It  is  used  with  C@  and  Arrow# -  Manufacturing  and  statistics domain
 
+6)  CHDOLLAR  with  CDollar,Gdollar  (OnlineBills , forms,reports)(we can  use  C# Technology)
 
 
 What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
 ==========================================================
 
-CH$  is  used  in  variety  of  remote  webapplication  like  ATM  banking,  biometric,Manufacturing  and  statistics domain,
+CH$  is  used  in  variety  of  remote  webapplication  like  BILLING, FORMS,Reports, ATM  banking,  biometric,Manufacturing  and  statistics domain,
 
 Reservation  like  bus,train,cinema  ticket,etc.
 
