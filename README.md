@@ -1898,13 +1898,15 @@ Proxy Remote  Webapplication  with  TYPE-2  (CLient  and  Server)...
 
 There   are    4  modules   present  in  CHDollar...
 
-1)  CHDOLLAR  
+1)  CHDOLLAR-CH$ (used  for  normalremotewebapplication)
 
-2)  CHDOLLAR-JSTAR
+2) CHDOLLAR-chdollar-J$-ATM BANKING
 
-3)  CHDOLLAR-JWP
+2)  CHDOLLAR-JSTAR-ADVANCEDWEBDESIGN
 
-4)  CHDOLLAR  with  JDollar(JWEB)  Technology...
+3)  CHDOLLAR-JWP (used  for  Reservation )
+
+4)  CHDOLLAR  with  JDollar(JWEB)  Technology...(Here  JDollar(JWEB)  is  focused)
 
 5)  It  is  used  with  C#  and  Arrow# -  Manufacturing  and  statistics domain
 
@@ -1940,13 +1942,13 @@ So  CHDollar is    focused  ....
 Important  note:
 ================
 
-When  you  host   Jdollar  or  Chdollar  Servers   in  any  of  your   today
+When  you  host   JDollar  or  Chdollar  Servers   in  any  of  your   today
 
-available   hosting   provider.  You   can   see  Jdollar  or   Chdollar   website   at  any  mobile phones
+available   hosting   provider.  You   can   see  JDollar  or   CHdollar   website   at  any  mobile phones
 
 or  at  internet.
 
-SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  Jdollar  p.l   to  publish   the  webpages.
+SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  JDollar  p.l   to  publish   the  webpages.
 
 
 
