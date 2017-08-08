@@ -1902,7 +1902,7 @@ There   are    4  modules   present  in  CHDollar...
 
 2) CHDOLLAR-chdollar-J$-ATM BANKING
 
-2)  CHDOLLAR-JSTAR-ADVANCEDWEBDESIGN
+2)  CHDOLLAR-JSTAR-ADVANCEDWEBDESIGN(biometric)
 
 3)  CHDOLLAR-JWP (used  for  Reservation )
 
@@ -1915,7 +1915,7 @@ There   are    4  modules   present  in  CHDollar...
 What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
 ==========================================================
 
-CH$  is  used  in  variety  of  remote  webapplication  like  ATM  banking,  biometric,
+CH$  is  used  in  variety  of  remote  webapplication  like  ATM  banking,  biometric,Manufacturing  and  statistics domain,
 
 Reservation  like  bus,train,cinema  ticket,etc.
 
