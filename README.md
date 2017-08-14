@@ -1916,7 +1916,7 @@ There   are    7  modules   present  in  CHDollar...
 What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
 ==========================================================
 
-CH$  is  used  in  variety  of  remote  webapplication  like  BILLING, FORMS,Reports, ATM  banking,  biometric,Manufacturing  and  statistics domain,
+CH$  is  used  in  variety  of  remote  webapplication  like  BILLING, FORMS,Reports, ATM  banking,  biometric,
 
 Reservation  like  bus,train,cinema  ticket,etc.
 
