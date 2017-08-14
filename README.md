@@ -1889,20 +1889,29 @@ Proxy Remote  Webapplication  with  TYPE-2  (CLient  and  Server)...
 
 There   are    7  modules   present  in  CHDollar...
 
-1)  CHDOLLAR-CH$ (used  for  normalremotewebapplication)
+1)  CHDOLLAR-CH$ (used  for  normalremotewebapplication)(This module is included  in  CHDollar)
 
-2) CHDOLLAR-chdollar-J$-ATM BANKING
+2) CHDOLLAR-chdollar-J$-ATM BANKING(This module is included  in  CHDollar)
 
-2)  CHDOLLAR-JSTAR-ADVANCEDWEBDESIGN(biometric)
+2)  CHDOLLAR-JSTARPart1-ADVANCEDWEBDESIGN(biometric) and  CHDollar-JSTARPart2(Library  management and other client-server projects)
 
-3)  CHDOLLAR-JWP (used  for  Reservation )
+(This module is included  in  CHDollar)
+
+3)  CHDOLLAR-JWP (used  for  Reservation based  projects )
+
+(This module is included  in  CHDollar)
 
 4)  CHDOLLAR  with  JDollar(JWEB)  Technology...(Here  JDollar(JWEB)  is  focused)
 
+(This module is included  in  CHDollar)
+
 5)  It  is  used  with  C@  and  Arrow# -  Manufacturing  and  statistics domain
+
+(This module is not included in  CHDollar;  you  can  see  more  detail  at  C@  and  Arrow#)
 
 6)  CHDOLLAR  with  CDollar,Gdollar  (OnlineBills , forms,reports)(we can  use  C# Technology)
 
+(This module is included  in  CHDollar)
 
 What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
 ==========================================================
