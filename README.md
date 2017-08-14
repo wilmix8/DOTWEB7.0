@@ -1,1958 +1,1840 @@
+<p>&nbsp;</p>
 
-<HTML>
-(UNIT-1)
-=========
+<p>&nbsp;</p>
 
-CHDOLLAR 
-=========
+<p><strong><u><span style="font-size:16px">CHDOLLAR &nbsp; Programming &nbsp; &nbsp;Language</span></u></strong></p>
 
-What  is    CHDOLLAR  ?
-=======================
+<p>&nbsp;</p>
 
+<p><br />
+<strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">(UNIT-1)<br />
+=========</span></span></strong></p>
 
-CHDollar Programming Language  is a modern technology consists of JAVA OOPS, C# OOPS, 
-Behave like CDOLLAR OOPS, GDOLLAR OOPS,used in Remote  WebApplication , and Advanced 
-OOPs.
-It  is  mainly  used  as a   Remote Webappilication.
-It is used in case of Billing,Forms ,normal  remotewebapplication ,
-  CH$-GRAPHICS ,and complex problems.
-  
-  
-  What   is  the  difference   between Remotewebapplicationserver  and  webserver?
-  ================================================================================
-  
-  Definition:  Remote  webserver  application    is   an  application    operates    with
-  ============
-  
-  client-server.but  it  will  post  and  get  objects   from  server that  can  be
-  
-  exchanged through out  sessions  or  with  in   two   computers  ;  where   as   one  act   as  client
-  
-  and  other  act   as   server.
-  
-  eg)  When  you enter   details  using  CH$  program  that   creates   a   data  object
-  
-  called  as .dsn  file;  that can  be  exchanged  through  out   sessions.
-  
-  Difference  between   webserver  and  remoteserver  means   remotserver  
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR&nbsp;<br />
+=========</span></span></strong></p>
 
-has   remote-client  connection  but  webserver don't have.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>What &nbsp;is &nbsp; &nbsp;CHDOLLAR &nbsp;?</strong><br />
+=======================</span></span></p>
 
-Data flow  is  unknown   using  J$  architecture.  where   as  in   
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDollar Programming Language &nbsp;is a modern technology consists of JAVA OOPS, C# OOPS,&nbsp;<br />
+Behave like CDOLLAR OOPS, GDOLLAR OOPS,used in Remote &nbsp;WebApplication , and Advanced&nbsp;<br />
+OOPs.<br />
+It &nbsp;is &nbsp;mainly &nbsp;used &nbsp;as a &nbsp; Remote Webappilication.<br />
+It is used in case of Billing,Forms ,normal &nbsp;remotewebapplication ,<br />
+&nbsp; CH$-GRAPHICS ,and complex problems.<br />
+&nbsp;&nbsp;<br />
+&nbsp;&nbsp;<br />
+<strong>&nbsp; What &nbsp; is &nbsp;the &nbsp;difference &nbsp; between Remotewebapplicationserver &nbsp;and &nbsp;webserver?</strong><br />
+&nbsp; ===============================================================<br />
+&nbsp;&nbsp;<br />
+<strong>&nbsp; Definition: </strong>&nbsp;<br />
+&nbsp; ========<br />
+&nbsp;&nbsp;Remote &nbsp;webserver &nbsp;application &nbsp; &nbsp;is &nbsp; an &nbsp;application &nbsp; &nbsp;operates &nbsp; &nbsp;with</span></span><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; client-server.but &nbsp;it &nbsp;will &nbsp;post &nbsp;and &nbsp;get &nbsp;objects &nbsp; from &nbsp;server that &nbsp;can &nbsp;be<br />
+&nbsp;&nbsp;<br />
+&nbsp; exchanged through out &nbsp;sessions &nbsp;or &nbsp;with &nbsp;in &nbsp; two &nbsp; computers &nbsp;; &nbsp;where &nbsp; as &nbsp; one &nbsp;act &nbsp; as &nbsp;client<br />
+&nbsp;&nbsp;<br />
+&nbsp; and &nbsp;other &nbsp;act &nbsp; as &nbsp; server.<br />
+&nbsp;&nbsp;<br />
+&nbsp; eg) &nbsp;When &nbsp;you enter &nbsp; details &nbsp;using &nbsp;CH$ &nbsp;program &nbsp;that &nbsp; creates &nbsp; a &nbsp; data &nbsp;object<br />
+&nbsp;&nbsp;<br />
+&nbsp; called &nbsp;as .dsn &nbsp;file; &nbsp;that can &nbsp;be &nbsp;exchanged &nbsp;through &nbsp;out &nbsp; sessions.<br />
+&nbsp;&nbsp;<br />
+&nbsp; Difference &nbsp;between &nbsp; webserver &nbsp;and &nbsp;remoteserver &nbsp;means &nbsp; remotserver &nbsp;</span></span></p>
 
-webserver  and  application server  like  tomcat,JSTAR SERVER,Jboss server,  etc;  here  dataflow  is  known.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">has &nbsp; remote-client &nbsp;connection &nbsp;but &nbsp;webserver don&#39;t have.</span></span></p>
 
-JSTAR  webserver   is used   only   for  webdesign  so   we  don't  focus   remoteserver.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Data flow &nbsp;is &nbsp;unknown &nbsp; using &nbsp;J$ &nbsp;architecture. &nbsp;where &nbsp; as &nbsp;in &nbsp;&nbsp;</span></span></p>
 
-In webserver  data  will   be   sent  between  client(browser)  and  server
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">webserver &nbsp;and &nbsp;application server &nbsp;like &nbsp;tomcat,JSTAR SERVER,Jboss server, &nbsp;etc; &nbsp;here &nbsp;dataflow &nbsp;is &nbsp;known.</span></span></p>
 
-is  known  to users.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">JSTAR &nbsp;webserver &nbsp; is used &nbsp; only &nbsp; for &nbsp;webdesign &nbsp;so &nbsp; we &nbsp;don&#39;t &nbsp;focus &nbsp; remoteserver.</span></span></p>
 
-so  this   indicates   webserver   has  no  security  but  remoteserver  using  J$  architecture
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">In webserver &nbsp;data &nbsp;will &nbsp; be &nbsp; sent &nbsp;between &nbsp;client(browser) &nbsp;and &nbsp;server</span></span></p>
 
-has  more   security  according  to  research.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">is &nbsp;known &nbsp;to users.</span></span></p>
 
-Remoteserver   uses http +  socket  connection    where   as webserver uses   only  http  connection
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">so &nbsp;this &nbsp; indicates &nbsp; webserver &nbsp; has &nbsp;no &nbsp;security &nbsp;but &nbsp;remoteserver &nbsp;using &nbsp;J$ &nbsp;architecture</span></span></p>
 
-Remote web  application server  =>  webserver  +  Applicationserver +  datasecurity.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">has &nbsp;more &nbsp; security &nbsp;according &nbsp;to &nbsp;research.</span></span></p>
 
-So J$ is  most  advanced in  security   side. but  it  has  more  framework  and  latest technology
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Remoteserver &nbsp; uses http + &nbsp;socket &nbsp;connection &nbsp; &nbsp;where &nbsp; as webserver uses &nbsp; only &nbsp;http &nbsp;connection</span></span></p>
 
-and  follows  shortest  code    than  any  technology and  including  advanced  business and  many  advantages
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Remote web &nbsp;application server &nbsp;=&gt; &nbsp;webserver &nbsp;+ &nbsp;Applicationserver + &nbsp;datasecurity.</span></span></p>
 
-over  other  technologies. When  you  host   Jdollar  or  Chdollar  Servers   in  any  of  your   today
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">So J$ is &nbsp;most &nbsp;advanced in &nbsp;security &nbsp; side. but &nbsp;it &nbsp;has &nbsp;more &nbsp;framework &nbsp;and &nbsp;latest technology</span></span></p>
 
-available   hosting   provider.  You   can   see  Jdollar  or   Chdollar   website   at  your  mobile phone
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;follows &nbsp;shortest &nbsp;code &nbsp; &nbsp;than &nbsp;any &nbsp;technology and &nbsp;including &nbsp;advanced &nbsp;business and &nbsp;many &nbsp;advantages</span></span></p>
 
-or  at  internet.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">over &nbsp;other &nbsp;technologies. When &nbsp;you &nbsp;host &nbsp; Jdollar &nbsp;or &nbsp;Chdollar &nbsp;Servers &nbsp; in &nbsp;any &nbsp;of &nbsp;your &nbsp; today</span></span></p>
 
-SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  Jdollar  p.l   to  publish   the  webpages.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">available &nbsp; hosting &nbsp; provider. &nbsp;You &nbsp; can &nbsp; see &nbsp;Jdollar &nbsp;or &nbsp; Chdollar &nbsp; website &nbsp; at &nbsp;your &nbsp;mobile phone</span></span></p>
 
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">or &nbsp;at &nbsp;internet.</span></span></p>
 
-  
-ABOUT CHDOLLAR Programming Language
----------------------------------------------------
-It is concenterated in building and designing Advanced Operating systems.
-CH$ is invented in GDollar in year 2008.
-CH stands for GAMMA and dollar stands for money.
-So we called as GAMMA Technology.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SO &nbsp; Hosting &nbsp; &nbsp;is &nbsp;mandaltory &nbsp; for &nbsp;CHDollar &nbsp;p.L &nbsp;and &nbsp;Jdollar &nbsp;p.l &nbsp; to &nbsp;publish &nbsp; the &nbsp;webpages.</span></span></p>
 
- Merits of CH$
- ===============
-> It is Good to create any compilers..and Advanced Operating systems and utilities.
-> It has simpilified code
-> it uses Pointers concept.
-> CH$ also used with C@ and Arrow# in mobile and cloud computing.
->  it  is     learnable  ,easy  to use, and   let  developers to  focus  only    c++
-or  C#  Programming  Language
->  CH$  also    support   CHDOLLARAJAX
->  it  can  be  used   to  execute   .exe  files.
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;&nbsp;<br />
+<strong>ABOUT CHDOLLAR Programming Language</strong><br />
+---------------------------------------------------<br />
+It is concenterated in building and designing Advanced Operating systems.<br />
+CH$ is invented in GDollar in year 2008.<br />
+CH stands for GAMMA and dollar stands for money.<br />
+So we called as GAMMA Technology.</span></span></p>
 
-Disadvantages
-=============
-> It  is   used  to  build   normal  remote  webapplication
-> absence   of   framework in  CH$ .
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>&nbsp;Merits of CH$</strong><br />
+&nbsp;===============<br />
+&gt; It is Good to create any compilers..and Advanced Operating systems and utilities.<br />
+&gt; It has simpilified code<br />
+&gt; it uses Pointers concept.<br />
+&gt; CH$ also used with C@ and Arrow# in mobile and cloud computing.<br />
+&gt; &nbsp;it &nbsp;is &nbsp; &nbsp; learnable &nbsp;,easy &nbsp;to use, and &nbsp; let &nbsp;developers to &nbsp;focus &nbsp;only &nbsp; &nbsp;c++<br />
+or &nbsp;C# &nbsp;Programming &nbsp;Language<br />
+&gt; &nbsp;CH$ &nbsp;also &nbsp; &nbsp;support &nbsp; CHDOLLARAJAX<br />
+&gt; &nbsp;it &nbsp;can &nbsp;be &nbsp;used &nbsp; to &nbsp;execute &nbsp; .exe &nbsp;files.</span></span></p>
 
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Disadvantages</strong><br />
+=============<br />
+&gt; It &nbsp;is &nbsp; used &nbsp;to &nbsp;build &nbsp; normal &nbsp;remote &nbsp;webapplication<br />
+&gt; absence &nbsp; of &nbsp; framework in &nbsp;CH$ .</span></span></p>
 
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR has only 1 pillars which is present in SRGX and jittechsection1</span></span></p>
 
-CHDOLLAR has only 1 pillars which is present in SRGX and jittechsection1
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">a).CH$(simillar to Advanced &nbsp;OOPS with &nbsp;CUTIL and C++ combination) called as CWEB</span></span></p>
 
-a).CH$(simillar to Advanced  OOPS with  CUTIL and C++ combination) called as CWEB
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">accepting only &nbsp; .exe &nbsp; and &nbsp;.dll &nbsp; files.</span></span></p>
 
-accepting only   .exe   and  .dll   files.
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SYNTAX FOR CHDOLLAR (.chdollar) (beautiful syntax)</strong><br />
+---------------------------------------------------------------</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span></p>
 
-
-
-SYNTAX FOR CHDOLLAR (.chdollar) (beautiful syntax)
----------------------------------------------------------------
-
-<CHSAUCER>
-
-@Remote //  to  load  CHDollar  packages
-<PACK>  <namecspacename>  //  pack  will   act  like   namespace
-{
-   <CLASS> <Classname>
-   {
-      public void main()
-      {
-       <!  CHDOLLAR  LOGIC  !>
-      }
-   }
-}
-
-</CHSAUCER>
-
-
-
-note: This should be saved in filename.CH$
-----
-
-How Chdollar Technology Works?  Or  chdollar  workflow? (EASY  APPROACH  than  JSTAR)
-======================================================================
-
-At first   Developers   write   a  CH$   program    and  compile
-
-using  javac    filename.CH$  it   creates   filename.CH$.exe  file  for  that.
-
-now   execute    the  file   at  url  as  filename.CH$  when  you   run  remoteserver   
-
-the   .exe   output   is  displayed   in  browser  as  a  fast   manner.
-
-
-
-============================================================
-
-How to run remoteserver in windows?
-
-click  on  CHDOLLARSERVER   located   at  CHDOLLAR  folder.
-
-note : default  hostname  is  localhost  or ip  address.
-
-Why  we   need   remotewebapplication?  what  is  the  difference  between  webapplication   and  this?
-
-webapplication   webpages   will  not   travel   around   web
-but  remotewebapplication is  seen  in internet ,mobiles,
-and all  devices.
-
-
-
-
-
-==================================================================================
-UNIT  -2:  a)  CHDollar  with  CDollar
-==================================================================================
-CDOLLARARRAYS
-===============
-
-CDollarArrays list1 = new CDollarArrays(string);
-to add any collection objects to array use
-add (String) functions and to Display those
-objects use list1.Display();
-Any class that use CDollarArrays you should extends Array in class...
-
-
-TREEOFARRAY
-============
-
-SYNTAX for TreeofArray:
---------------------------------------
-TreeArray <name> = new TreeArray(String);
-<name>.add(elements);
-where elements may be string or collections....
-
-LISTOFARRAY
-
-
-SYNTAX for List of Array:
---------------------------------------
-LArray <name> = new LArray(string);
-<name>.add(elements);
-The elements may be string or collection elements.
-
-
-
-Operators conditions and loops
---------------------------------------------------
-Operators
----------
-+ => ADD
-++=> Increment
-- => Substract
---=> Substract
-* => Mulitply
-/ = Division
-~ => bitwise unary not operator
-NOT (!) => flips true values to false and false values to true.
->>, >>>, and << => IT is used to shift all the bits of a number left
-or right
-a Specified number of places...
-Other Operators
-----------------
-
-   # => !=  operator
-AND => && And operator
-OR => || OR operator
-?: => value =condition ? value1 : value2 (similar to if then else)
-== => compare two values...
-=  => Assignment operators
-Equals  => Compare two objects
-
-Relational Operators
---------------------
-> >= => Greater than , Greater than equals.
-< <= => Less than , Less than equal
- = or  != => Equals and not equals
-
-CONDITIONS
-----------
-IF Syntax:
-------------
-if <condition> statements;
-IF then else Syntax:
-----------------------
-if <condition> statements else statements1
-if <condition> statements1 else if condition1 statement2 .... and soon.
-SWITCH Statements:
--------------------
-switch (expression)
-{
-case value1 :
-statement1;
-[break]
-................
-case valuen:
-statementn;
-[break]
------
-default:
-default_statement;
-}
-Explanation:
-------------
-If the expression is equals value1
-statement1 will be executed.
-if you use break it comes out of the loop
-otherwise it continue to execute next statement.
-The default value at the end is optional. It can be included if there are other values that can be held in
-your variable but that you haven't checked for elsewhere in the switch statement.
-THE WHILE LOOP
------------------------------
-while (<condition> )
-{
-< Statements block>
-}
-Note: if the condition is true the block get executed.
-otherwise the loop will be continued.
-THE DO --- WHILE LOOP
------------------------------
-do
-{
-< Statements block>
-}
-while( <conditon> )
-Note: if the condition is true the block get executed.
-and it is tested at the end of the loop, but not at the
-beginning. The loop will be continued until it satisfies the condition.
-biggest reason to be use the do - while loop is that
-when you need the body of the loop to be run atleast once.
-FOR LOOP
---------
-for ( identifier=value; cond1; iterator operators)
-{
-< Block statements >
-}
-For -EACH Statement
-----------------------
-for ( variable : collection)
-statement;
-for eg)
-If you add integers (1 to 3) to arraylist
-and if you wish to copy and store it in an integer variable
-so that you can print the values that is copied from
-arraylist.
-Then follow this method of for each statements...
-for ( int a in  ar)
-{
-< Block statements >
-
-}
-Output:
------------
-value=1
-value =2
-value =3
-CONTINUE and Break
----------------------------------
-Break means it break out of loop
-and continue means
-it will continue to execute the statements;
-for eg)
-
-
-CHDOLLAR STRUCTURES
------------------------------------
-CHDollar structure is another user defined data type available in CDollar programming, which allows
-you to combine data items of different kinds.
-using the same memmory location. It also provide an efficient way of using the same
-memory location for multi-purpose.
-Thus CHDollar Structures is Equivalent = C progamming Structures and union.
-and it uses less memmory capacity than any Programming languages. IT is also
-used to store collections, object ,etc.
-IT is the most important datastructure implemented by wilmix jemin j.
-He reduces the demerits of C Programming and
-Gdollar  child is CHDollar. So CHDollar has very beautiful and Advanced Concepts
-than any Programming Languages. 
-
-SYNTAX:
-
-<STRUCTURE> <datatype> list = <NEW> <STRUCTURE> <datatype>(object);
-list.add(object);
-
-
-
-What is Pointers?
-
-Variables that hold memory address are called pointers.
-Why we mainly use Pointers?
-Pointers reduces the length and complexity of the program,
-They increase the execution speed.
-It holds the memmory addres..
-
-SYNTAX of CHDollar Pointers:
----------------------------------
-
-{*}<<DATATYPE>> <pointer-name> Pointer<<DATATYPE>>(intialvalue);
-for eg)
-<Str> s ="Life is beautiful";
-{*}<<Str>> l Pointer<<Str>>(s);
-The given above statement will store the string "Life is beautiful"
-in Pointer name l;
-
-
-==============
-BUCKET
--------
-Bucket are used to store key,value data, and Generated Random number
-where datatype may be string ,object ,etc.
-SYNTAX:
-----------
-Bucket<DATATYPE> list = <NEW> Bucket<DATATYPE>(<DATATYPEVALUE>);
-list.KeyAdd(<DATATYPEVALUE>);
-list.add(<DATATYPEVALUE>);
-list.RandomAdd();
-list.Display(list);
-Advantages
-----------
-Using Bucket you can also Retrieve the values stored n position.
-Searching and Insertion is fast than other DTS.
-Random Indexing is possible.
-eg) If you store a duplicate value such Random key will be different.
-It also used to add many values.
-EXTEND
-------
-Extend class is used in CDollar since to provide multiple inheritence
-about 100000000 classes . Extends class also list values in methods and
-constructor values.
-Extend means a Bucket contains List of class and it is also
-Behave like Bucket. So it is also one of the Advanced concepts in CDollar.
-SYNTAX:
---------
-EXTEND <<DATATYPE>> list11 = <NEW> EXTEND <<DATATYPE>> (STRING);
-list.KeyAdd(<DATATYPEVALUE>);
-list.add(<DATATYPEVALUE>);
-list.RandomAdd();
-list.Display(list);
-Advantages:
-It is also used to add many values
-Indexing is possible
-Value can also be list by index and behave like bucket.
-It list only the class value and object value.
-It is stateless.
-PIPE:
------
-PIPE is used to maintain stateful state.
-It is used for DataFlow in a Program. We can also add the values,
-Constructor values of one class and other class and display it.
-It also list the values from the Bucket.
-
-SYNTAX:
--------
-Pipe <<DATATYPE>> list11 = <NEW> Pipe <<DATATYPE>> (STRING);
-list.KeyAdd(<DATATYPEVALUE>);
-list.add(<DATATYPEVALUE>);
-list.RandomAdd();
-list.Display(list);
-Why we Prefer CDollar for software Field?
-Used in BILLS, Forms ,Reports,Charts, any software project , GRAPHICS to web etc.
-
-CHDollar ADvantages over JAVA and other Programming Languages
-----------------------------------------------------------------------------------
-A) CHDollar is the combination of  C# , C/C++, and Advanced OOPS.
-b) CHDollar will only accept the shortest attractive syntax.
-c) CHDollar also used for construction of any datastructures.
-d)  it  is   easy  to   focus  ,learn and  use.
-e) It also supports friendly function, pointers , and structures.
-f) CHDollar support Virtual memmory and garbage collection.
-g) It is efficient, fast and easy to understand, and it is a OOPS Technology.
-h) CHDollar is a High level language.
-i) CHDollar is highly portable language
-j) Using CHDollar you can create any datastructures as libraries and
-use it in your Application program.
-k) CHDollar language is a structured and object programming language.
-l) CHDollar has OOPS concepts like JAVA.
-m) CHDollar have the concept of Packages,etc.
-n) CHDollar have the concept of constructor or destructor and had magic oops concepts.
-o) It Support functions with Default Arguments
-q) It Supports Exception handling
-r) It have pointer and Nodes..
-s) CHDollar is much simpler oops concepts, which leads to faster development and less mental overhead.
-t) CHDollar is almost always explicitly compiled
-u) CHDollar is easy to learn. CHDollar was designed to be easy to use and is therefore easy to write,compile, debug, and learn than other programming languages.
-CHDollar is object-oriented. This allows you to create modular programs and reusable code.
-
-v) CHDollar creates  .class,  .exe  or  .dll   files   and  it  can be  used  with   CHDollar  main  program.     
-w) CHDollar will compile and run at same time where other technology can't
-do
-x) CHDollar is mainly used in complex programming , Billing the
-goods,Graphics,etc
-
-y)  CHDollar  is   used  with OAKJAVA
-
-z)  CHDollar   has   Advanced  OOPS  like  CDollar    ,  and  GDollar.
-
-AA) CHDollar is an interactive Technology.
-
-BB)  CHDOLLAR  is    used  as  a  remote  webapplication
-
-
-FAQS
-------
-A) A C /C++ Programmer or any oops developer    or  C#  programmer  
- can easily study it....
-
-========================================================================
-UNIT -3 :CHDOLLAR  Program Syntax  AND ADVANCED   CONCEPTS  PROGRAM.
-========================================================================
-Syntax:
-
-<CHDollar>
-
-<PACK> <nAMESPACE>
-<%
-    <CLASS> <CLASSNAME>
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-            
-<!  CHDOLLAR  LOGIC!>              
-               
-     
-
-%>
-
-?>
-
-
-
-
-
-BAG
-=====
-Bag is the extension of LinkedHashmap and it is the fastest
-datastructures than Dictionary.
-
-SYNTAX:
-=======
-
-
-Bag object = new Bag();
-object .put(key,value);
-Functions
-getValues(key) => it is used to get the values for a particular key
-get(key,loc) => it is used to get the value stored at a loc (indexing
-purpose)
-boolean containsValue(object Value) => To check the value present in bag or
-not.
-put(key,value) => it is used to add key and value in Bag
-remove(key ,value) => It is used to remove key and value.
-
-
-
-TreeList
-========
-
-TreeList simillar to Bucket but store items in tree format.
-
-TreeList list = new TreeList ("BUCKETS");
-list.KeyAdd(KEY);
-list.add(VALUE1);
-list.RandomAdd(RANDOMNO);
-list.DisplayO(list,0);
-
-
-MASK
-====
-It is the extension of Tree Structure and it can store many values
-using mask object and we can also retrieve the values stored in mask.
-Mask m = new Mask(<DATATYPE>);
-m.add(multiple values);
-m.getR(Loc); => Get the values stored in right position
-m.getL(LOC) => Get the values stored in left position
-
-
-HEAP:
-====
-
-
-Creates a tree , puts the data into tree in a fairly balanced way and displays
-the tree's size and data in a tree by performing an inorder traversal.
-Heap hob = new Heap(<datatype>);
-hob.add(datum);
-hob = new Heap(key,value1,value2);
-
-
-
-Bucktist
-==========
-
-
-
-Bucktist is similalr to Bucket but it is used to addd two values with one
-key.
-Bucktist l = null;
-l= new Bucktist(key,value1,value2);
-
-
-WICKET
-=======
-Wicket is used to store multiple values using same object with
-4 values per key.
-
-Syntax:
-
-Wicket list12;
-list12=new Wicket(key,v1,v2,v3,v4);
-list12.Display();
-list12.Display(list12,location);
-
-
-
-
-EXAMPLE -1: BAG
-
-<CHDollar>
-
-<PACK> MyP
-<%
-    <CLASS> Programs
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-            
-        Bag  b <NEW> Bag();
-
-b.PUT(1,34);
-b.PUT(2,444);
-
-<PRINTLN>(""+b);
-              
-               
-     
-
-%>
-
-?>
-
-
-EXAMPLE:2  : CHDOLARARRAYS
-==========
-
-<CHDollar>
-<USE>  CUTIL;
-
-<PACK> MyP
-{
-    <CLASS> Programs
-    {
-         
-        public FLOAT CHDollar-MAIN()
-        {
-            
-
-<AList>  ar <NEW> <AList> ();
- for  (int  i=0;i<=100000;i++)
- ar.add(i,i);
-
- 
- 
- 
- <CDOLLARARRAYS> list1 <NEW>  <CDOLLARARRAYS>("ANIMALS ");
-        list1.add("1 horse");
- list1.add("2 pig");
- list1.add("3 cow");
- list1.add("4 goat");
- list1.add("5 chicken");
- 
- list1.add("6 ostrich");
- list1.Display();
-
- 
-              
-               
-     %>
-
-?>
-
-
-EXAMPLE-3: CREATE  AN  BOOTLOADER   Using  CHDOLLAR
-
- <CHDollar>
-
-<PACK>  MYOS
-{
-    <CLASS> MYOs
-    {
-public FLOAT CHDollar-MAIN(){
-
-
-<PRINTLN>("HelloWorld  for  booting  MYOS");
-
-          
-               
-     %>
-
-?>
-
-
-
-
-EXAMPE-4: POINTERS
-
-
-<CHDollar>
-<PACK> MyP
-{
-    <CLASS> Programs
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-            
-
- <Str>  s="dsdds";
- 
- {*} l Pointers (s);  
- 
-l.add(s);
- 
- for (int i = 0; i NOT= l.size(); i = i + 1)
- {
- 
- <OBJECT> obj=l.GETKEY(i);
- <PRINTLN>(obj);
- 
- 
- 
- }
- 
- 
-              
-                
-               
-     %>
-
-?>
-
-Example-6: EXTEND
-
-
-
-<CHDollar>
-
-<IMPORT>
-
-
-
-<PACK> MyP
-
-<%
-    <CLASS> Programs
-    <%
-        public FLOAT CHDollar-MAIN()
-
-        {
- 
- 
- EXTEND list <NEW> EXTEND("BUCKETS");
- 
- 
- 
- 
-      list.KeyAdd("1101");  
-                    
-                     list.add("jemin");
-                     
-                     list.RandomAdd();    
-                     
-                     list.Display(list);
-                    
-<PRINTLN>(""+list.DisplayO(list,1));
-
- 
-%>
-
-
-?>
-
-
-EXAMPLE-7: HEAP
-
-
-
-
-
-<CHDollar>
-
-
-<PACK> MyP
-{
-      <CLASS> Programs
-    {
-         public FLOAT CHDollar-MAIN()
-        {
- 
-
- Heap root <NEW> Heap("wilmix");
- 
- for (int i = 0; i <= 10; i = i + 1)
- {
- root.add("item " + i);
- }
-                 
- <PRINTLN>(root.size() );
- root.printTree();
-
-          
-               
-     %>
-
-?>
-
-
-
-Example-8: LArray
-
-
-<CHDollar>
-
-<PACK> MyP
-{
-    <CLASS> Programs
-    {
-          public FLOAT CHDollar-MAIN()
-        {
- 
- LArray root <NEW> LArray("root");
- 
- 
- root.add("wilmix");
- root.add("jemin");
- root.add("shalom");
- root.add("1010");
- root.add("101");
- root.add("201");
- root.add("100000000");
- //print the tree's size and contents
- 
- root.printTree();
-
-
-
-          
-               
-     %>
-
-?>
-
-
-
-Example-9 : PIPE
-
-
-
-
-<CHDollar>
-
-<PACK> MyP
-
-{
-    <CLASS> Programs
-    {
-public FLOAT CHDollar-MAIN()
-        {
- 
-
-Pipe list  <NEW> Pipe("BUCKETS");
- 
- 
- 
- 
-      list.KeyAdd("1101");  
-                    
-                     list.add("jemin");
-                     
-                     list.RandomAdd();    
-                     
-                     list.Display(list);
-
-<PRINTLN>(""+list.DisplayO(list,1));
-
- 
-          
-               
-     %>
-
-?>
-
-
-
-
-EXAMPLE-10: TREELIST
-
-
-
-<CHDollar>
-
-<PACK> MyP
-
-{
-    <CLASS> Programs
-    {
-        public FLOAT CHDollar-MAIN()
-        {
- 
-
-
-TreeList list  <NEW> TreeList ("BUCKETS");
- 
- 
- 
- 
- 
- 
-      list.KeyAdd("1101");  
-                    
-                     list.add("jemin");
-                    
-                     
-                     list.RandomAdd("1111");   
-
-TreeList list2 <NEW> TreeList("BUCKETS");
- list2.KeyAdd("1102");  
-                    
-                     list2.add("rahul");
-                    
-                     
-                     list2.RandomAdd("1112");
-                     
-                 
-
-
-<PRINTLN>("DATA="+list.DisplayO(list,0));
-
-
-<PRINTLN>("DATA="+list2.DisplayO(list2,0));
-
-          
-               
-     %>
-
-?>
-
-
-Example-11 : MASK
-
-
-
-
-<CHDollar>
-
-
-<PACK> My
-{
-    <CLASS> Programs
-    {
-           public FLOAT CHDollar-MAIN()
-        {
- 
-
- MASK root <NEW> MASK("wilmix");
- 
- for (int i = 0; i NOT= 10; i = i + 1)
- {
- root.add("item " + i);
- }
-             
- 
- 
- 
- 
- root <NEW> MASK("root1",1211211,54441);
- 
- root  <NEW> MASK("root2",121121,5444);
- root  <NEW> MASK("root5",99121888,"5");
- 
- root  <NEW> MASK("root3",12112,544);
- 
- root  <NEW> MASK("root4",1211,54);
- 
- root  <NEW> MASK("root51",121,5);
- 
- 
- root.printTree();
- 
-
-
-          
-               
-     %>
-
-?>
-
-
-
-
-
-Example-12 : WICKET
-
-
-<CHDollar>
-
-
-<PACK> MyPo
-{
-    <CLASS> Programs
-    {
-           public FLOAT CHDollar-MAIN()
-        {
- Wicket  list12;
- list12 <NEW> Wicket(1000,10002,43433,4343,5555451);
- list12 <NEW> Wicket(10001,100021,434331,4343,5555452);
- list12 <NEW> Wicket(10002,100022,434332,4343,5555453);
- list12 <NEW> Wicket(10003,100023,434333,4343,5555454);
- list12 <NEW> Wicket(10004,100024,434334,4343,5555455);
- list12 <NEW> Wicket(10005,100025,434335,4343,5555456);
- 
- 
- list12.Display(list12);
- 
- <PRINTLN>("DATA="+list12.DisplayO(list12,0));
-                 
-          
-               
-     %>
-
-?>
-
-
-Example-13 : STRUCTURE
-
-
-<CHDollar>
-<PACK> MyPoi
-{
-    <CLASS> Programs
-    {
-          public FLOAT CHDollar-MAIN()
-
-        {
-            
-
- <Str>  s="dsdds";
- 
- {*} l Pointers(s);  
- 
-l.add(s);
- 
- for (int i = 0; i NOT= l.size(); i = i + 1)
- {
- 
- <OBJECT> obj=l.GETKEY(i);
- <PRINTLN>(obj);
- 
- 
- 
- }
- 
- 
- 
- 
- <STRUCTURE>  list <NEW> <STRUCTURE> (l.GETKEY(0));
- 
- for (int i11 = 0; i11 NOT= list.size(); i11 = i11 + 1)
- {
- 
- 
- 
- <OBJECT>  el=list.ret(i11);
- 
-
- 
- <PRINTLN>("SNO= "+el);
-
-                }
-              
-            
-               
-     %>
-
-?>
-
-
-
-
-Example-14 : BUCKETIST
-
-bucketist.java
-<CHDollar>
-
-
-<PACK> MyP
-{
-    <CLASS> Programs
-    {
-          public FLOAT CHDollar-MAIN()
-        {
- 
-
-
-
-
-Bucketist  bp    <NEW>  Bucketist("wilmix");
-
-bp    <NEW>  Bucketist(1,222,434);
-bp   <NEW>  Bucketist(1,222,434);
-
-
-bp.Display(bp);
-
-
-<PRINTLN>("DATA="+bp.DisplayO(bp,1));
-          
-               
-     %>
-
-?>
-
-
-
-
-
-Note:  This  CHDOLLAR - Tutorial- EXERCISES   is  a  Practical  Exercises    for CDollar  Programmers  we  can  use  CHDOLLAR-LIB DLL     in  CHDollar   program
-
-
-==================================================================================
-                                        UNIT:4  :  CHDOLLARJAVA ,  CHDOLLAR  with  WDBA DB
-==================================================================================
-CHDOLLARJAVA
-=============
-CHDOLLARJAVAC  compiler  is  to   compile   .CH$   file  and  produces   .exe   and  .dll
-which  can  be  reused  by other  CH$  program.
-CHDollar-JAVA   which  is  used  to  run   .exe   files.
-
-
-================================================================
-
-
-UNIT-5:  CH$  Remote  Webpage  Syntax  
-
-===============================================================
-
-
-SYNTAX to  execute  executable files  by  remoteserver:
-
-
-Compile   using   javac  filename.CH$  will  create   filename.CH$.exe
-
-Rename   .exe   files   as    filename.CH$.exe
-
-and  execute  filename.CH$  in browser  the  .exe  output  will  be  displayed
-
-in the  browser.
-
-
-
-What  is  the  syntax  to  get and  spliting  the  parameters ?
-=====================================================================
-
-
-
-<AList> <String> armg=SPLITREQUEST.RESULT(arraylistobject,"arraylist.dsn",howmanyGUI,incrementor);
-
-it  is  used   to  get   the  value  from   WeBGui like  text  box  ,etc.
-
- 
-
-HTML.displayhtml("filename.html") =>  it  is  used  to  print  the  html  form contents  
-in  the  webpage. and  it  is  used in  CHDOLLAR-AJAX.
-
-
-
-
-            Print.Println(datatype,datatype)   for   CH$  program.
-
-
-
-MY  FIRST  CH$  PROGRAM
-
-
-
-<CHSAUCER>
-
-@Remote
-<PACK>  p
-{
-   <CLASS> MyArray
-   {
-      public void main()
-      {
-         int []  n = new int[15]; /* n is an array of 15 integers */
-         int i,j;
-
-ArrayList  ar  =  new  ArrayList();
-
-         /* initialize elements of array n */
-         for ( i = 0; i < 15; i++ )
-         {
-            n[ i ] = i + 100;
-
-ar.add(i,n[i]);
-
-         }
-         
-
-
-
-
-         /* output each array elements value */
-         
-         for (j = 0; j < 15; j++ )
-         {
-            Print.Println(""+j,""+ar.get(j).ToString()); //  To String   to  convert object  to  String.
-         }
-  
-      }
-   }
-}
-
-</CHSAUCER>
-
-
-now   compile   using   javac  wil.CH$
-
-what   happens?
-
-It  produces  the   .exe   file   wil.CH$.exe.
-
-
-
-Write   a    CHDOllar  Program with  GDollar  module(use  Book dts):
-=======================================================================
-
-TS.java
-=======
-
-
-<CHDollar>
-
-
-<PACK> TS
-<%
-    <CLASS> Y
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-         
-
- 
-BOOK  u   <NEW>  BOOK("Wilmix");
-
-for (int i=0;i<=100;i++)
-u.add("col"+i);//add  the  values to  book 
-
-for (int i=0;i<=100;i++)
-<PRINTLN>(""+u.ret(i));// print  the book values
-
-%>
-
-?>
-
-
-
-Write   a   Remote  webpage   program using  CH$?
-===================================================
-
-a)tre.CH$
-========
-
-<CHDollar>
-
-
-<PACK> HierachialTree
-<%
-    <CLASS> roots
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-         
-
- Bag  tree <NEW> Bag();
- 
-  Bag  Member <NEW> Bag();
-
-  //add  a,b,c,d to  class5  section and class6   to  class6 section
-      
-Member.PUT("A","CLASS5");
-Member.PUT("B","CLASS5");
-Member.PUT("C","CLASS5");
-Member.PUT("D","CLASS5");
-Member.PUT("CLASS6","CLASS6");
-
-//add  s1,s2,s11,s21,s12,s22  slibings.
-
- Bag  slibings <NEW> Bag();
-slibings.PUT("A","s1");
-slibings.PUT("A","s2");
-slibings.PUT("B","s11");
-slibings.PUT("B","s21");
-slibings.PUT("C","s12");
-slibings.PUT("C","s22");
-
-//add  cricket,read,swin  to  activities..
-
-Bag  activity <NEW> Bag();
-activity.PUT("s1","cricket");
-activity.PUT("s2","read");
-activity.PUT("s21","swim");
-activity.PUT("s12","swim");
-tree.PUT(1,Member);
-tree.PUT(2,slibings);
-tree.PUT(3,activity);
-
-
-activity.remove("s1","cricket");
-//remove  cricket  activity
-tree.remove(3,activity);
-//remove  activity  object
-tree.PUT(3,activity);
-//again  put the  activity  to  3  index
-
-//so  what will be  the  output?
-
-
-<PRINTLN>("output="+tree.containsValue(Member));
-//this  print  statement  will   print  output=true
-  
-//this  print  statement  will  print  tree  values
-   <PRINTLN>("output="+tree);  
-
-%>
-
-?>
-
-on  compilation   with  CWE  EDITOR
-
-
-will  create   tre.exe  file   for  futhure  use...
-
-and  rename  it   as  tre.CH$.exe  and   execute   it  in  browser.
-
-
-Write   a   remote  webpage  program  for  that?
-
-
-
-b)CH$ remote webpage  using  BOOK dts
-
-
-<CHDollar>
-
-
-<PACK> TS
-<%
-    <CLASS> Y
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-         
-
- 
-BOOK  u   <NEW>  BOOK("Wilmix");
-
-for (int i=0;i<=100;i++)
-u.add("col"+i);
-
-for (int i=0;i<=100;i++)
-<PRINTLN>(""+u.ret(i));
-
-%>
-
-?>
-
-
-follow  the  same  procedure  as  i said  above..
-
-and  create  a   remotewebpage  for  that.....
-
-
-
-
-c)  Create   a    CH$ using  wnosql  db
-
-
-wdba.java
-=========
-
-
-<CHDollar>
-
-<USE> CDollar.WDBA;
-
-<USE> WDBA;
-
-<PACK> TSwdba
-<%
-    <CLASS> Ywdba
-    {
-        public FLOAT CHDollar-MAIN()
-        {
-         
-
- 
-string g = WDBASQL.WDBASQLS("datastores", "USEDATABASE", "dbpwds", "C:\\Prog\\WNOSQ\\WNOSQL\\WNOSQL-cod"); 
-//path where  .wdba  serverer files  is  stored  
-
-           
-
-
-            string t = WDBASQL.WDBASQLS("dbuser", "dbpwds", 1, "wilmix78", "wilmix78", 1, 5, g);
-//supply  username  and  password
-
-           
-            string s11 = "RIGHTJOIN from student 0 to 1 , 1 to 4 ?= emp For X f(x) : {0,1,2,3,4,5,6,7,8,9,10,11} : {0,1,2,3,4,5,6,7,8,9,10,11} : {0}";
-
-//perform  right  join  between   student  and  employee
-
- string s1 = "SelectAll from student 0 to 1 , 1 to 4 ?= XXX By X f(x) : {0,1,2}: {3,4,5} :{2,4}";
-
-//select *  from  stodent  from  0   to  1
-
-            
-            <PRINTLN>(""+SQL.WDBAQUERY(  s1,  t));
-//print   the   select(*) Query
-            <PRINTLN>("" + SQL.WDBAQUERY(s11, t));
-//Print  rightjoin  query
-
-
-%>
-
-?>
-
-
-compile  using  CWE  EDITOR   and  create wdba.exe 
-
-and  rename   as   wdba.CH$.exe  and
-
-put  it  in CH$/bin directory
-
-
-and  rename  it   as  abc6.CH$.exe  and   execute   it  in  browser.
-
-
-
-
- 
-
-
-
-===============================================================
-UNIT-6:
-=======
-CH$  AJAX ,CH$  Forms , Bills,etc,Animation  and  Graphics
-
-
-================================================================================== 
-
-CHDOLLAR  SERVLET
-==================
-Print.Println("string"," ");
-this   above   statement  will  print  the string  on the  webpage  will
-act like  chdollar  servlet
-
-
-CHDOLLARAJAX
-==============
-Print.Println("<form action=BILL.CH$ method=post>","");
-if  BILL.CH$  is  the  current  CH$ program  when  you  give
-method=post  and  action=CH$  it will act like  CH$  AJAX.
-
-CHDOLLAR WXML  METHODS
-=======================
-
-SYNTAX:
-=======
-
-WXML.wxml<PARSE>r("filename.wxml", wxmlindex,string+"");
-
-for  example)
-WXML.wxml<PARSE>r("bill.wxml", 4,s3+"");
-=> this  statement  is    used  to print  bill , Forms,TABLES.
-
-4=> indicates  bill  format
-1=> indicates  Forms
-2=> indicates TABLES
-
-
-
-
-CHDOLLAR  MVC
-===============
-
-CHDOLLAR  MVC   is  userdefined  it   is   very  easy for  developers
-to  focus like struts.
-take  3 class  Model(wdba  database code) , formview  (with set  and get  methods),
-controller .
-
-call    controller  class   result   to  CH$  main  program
-
-
-ie)
-
-public void  main()
-{
-
-
-
-String  name= ///parametervalue
-//this    statements   are  mandaltory   eg)
-
-//to  get   the  value  from   WeBGui like  text  box  ,etc.
-
-
-controller.set(name); //set  form values.
-CHDollar.out.println(controller.get());
-//this   statement  will print  the  output  in webpage
-}
-
-
-CH$  GRAPHICS
-==============
-html1.html
-===========
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>Image to use:</p>
-<img id="scream" src="http://www.en.planettours.bg/02/images/Bodrum/thumbnail.ashx.jpeg" alt="The Scream" width="220" height="277">
-
-<p>Canvas to fill:</p>
-<canvas id="myCanvas" width="250" height="300"
-style="border:1px solid #d3d3d3;">
-Your browser does not support the HTML5 canvas tag.</canvas>
-
-<p><button onclick="myCanvas()">Try it</button></p>
-
-<script>
-function myCanvas() {
-    var c = document.getElementById("myCanvas");
-    var ctx = c.getContext("2d");
-    var img = document.getElementById("scream");
-    ctx.drawImage(img,10,10);
-}
-</script>
-
-</body>
-</html>
-
-
-graphics.CH$
-============
-
-
-
-
-
-<CHSAUCER>
- 
-
-<PACK>  p
-{
-   <CLASS> graphics
-   {
-      public void main()
-      {
-
-
-
-
-HTML.displayhtml("html1.html");
-
-
- 
-}
-
-}
-}
-
-
-</CHSAUCER>
-
-
-
-Animate with  JQUERY
-======================
-animate.html
-===========
-
-<!DOCTYPE html>
-<html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-    $("button").click(function(){
-        var div = $("div");
-        div.animate({left: '500px'}, "slow");
-        div.animate({fontSize: '3em'}, "slow");
-    });
-});
-</script>
-</head>
-<body>
-
-<button>Start </button>
-
-
-<div style="background:#98bf21;height:100px;width:200px;position:absolute;">WELCOME TO CH$ </div>
-
-</body>
-</html>
-
-
-animate.CH$
-============
-
-
-<CHSAUCER>
-
-<PACK>  p
-{
-   <CLASS> MyArray
-   {
-      public void main()
-      {
-
-
-
-HTML.displayhtml("animate.html");
-}   
-
-}
-
-}
-
-</CHSAUCER>
-
-
-
-
-
- 
- 
-CH$ with  ANGULAR JS
-=======================
-
-ang.html
-========
-
-<!DOCTYPE html>
-<html>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
-<body>
-
-<div ng-app="">
- 
-<p>Kindly  type in  the  text  box:</p>
-<p>Name : <input type="text" ng-model="name" placeholder="Enter your  favourite language"></p>
-<h1>Welcome  to {{name}} Programming!</h1>
-
-</div>
-
-</body>
-</html>
-
-
-  
-angular.CH$
-=============
-
-
-<CHSAUCER>
-
-<PACK>  p
-{
-   <CLASS> MyArray
-   {
-      public void main()
-      {
-
-
-
-HTML.displayhtml("ang.html");
-}   
-
-}
-
-}
-
-</CHSAUCER>
-
-
-
- 
-
-bootstrap.html
-=============
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</head>
-<body>
-
-<div class="container">
-  <h2>MY HOMEPAGE</h2>
-  <p>MY  HOME  PAGE</p>
-  <ul class="breadcrumb">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">ABOUTME</a></li>
-    <li><a href="#">FAQS</a></li>
-    <li class="active">Contactme</li>
-  </ul>
-</div>
-
-</body>
-</html>
-
-
-angular.CH$
-===========
-
-
-<CHSAUCER>
-
-<PACK>  p
-{
-   <CLASS> MyArray
-   {
-      public void main()
-      {
-
-
-
-HTML.displayhtml("bootstrap.html");
-}   
-
-}
-
-}
-
-</CHSAUCER>
-
-
-
-
-
-
-What    is  the  directory   structure    for  CH$?
-
-
-
-Note:
-
-
-The    Necessary  files    needed   for  CHDollar  is    chdollar -javac ,  chdollar -java  
-
-and  CWEEditor -cdrun   to   execute   .exe  files    and  create  .dll   files.
-
-CHDollar  P.L   is  designed   so  that      C#   Professionals ,C/C++  can  easily  follow  it.
-
-
-
-index.CH$
-=========
-
-<CHSAUCER>
- 
-
-<PACK>  p
-{
-   <CLASS> index
-   {
-      public void main()
-      {
-
-
-
-
-HTML.displayhtml("Register.html");
-
-
- 
-}
-
-}
-}
-
-
-</CHSAUCER>
-
-
-
-Register.html
-
-<html>
-  <head>
-    <title>GCLOUDOS  USER  REGISTRATION</title>
-    
-  </head>
-
-  <body class="fancy">
-<form action="http://localhost:8090/Jquerytest.CH$" method="post" >
-
-<div id="pageContainer">
-      <img src="images/banner1.png" alt="GCLOUD OS @  Jemin Information Technology (C)  ALL  RIGHTS  RESERVED">
-      <div id="pageContent">
-
-        <div id="chaptersAccordion">
-
-            <h2><a href="#chapter1">Enter your  System Details</a></h2>
-            <div>
-              
-
-<p>Enter  the Name: <input type="text" name="name" size="25" /></p>
-<p>Enter your Username : <input type="text" name="uname" size="15"/></p>
-<p>Enter  the password : <input type="password" name="password" size="25" /></p>
-
-
-            </div>
-
-
-<h2><a href="#chapter2">REGISTER</a></h2>
-            <div>
-              <input type="submit" name="Click">
-<input type="reset" name="Clear">
-            </div>
-
-
-</form>
-
-</body>
-</html>
-
-Write   a    Oak java    for  Jquerytest  as   we see  this   same  example   in JSTAR.
-
-rename  it    as    Jquerytest.CH$.exe
-
-and  execute   in  browser.
-
-
-==============================
-
-Program-2
-=========
-
-<CHSAUCER>
- 
-
-<PACK>  p
-{
-   <CLASS> index1
-   {
-      public void main()
-      {
-
-
-
-
-HTML.displayhtml("Eregister.html");
-
-
- 
-}
-
-}
-}
-
-
-</CHSAUCER>
-
-
-<html>
-  <head>
-    <title>  USER  REGISTRATION</title>
-    
-  </head>
-
-  <body class="fancy">
-<form action="http://localhost:8090/Programs8.CH$" method="post" >
-
-<div id="pageContainer">
-      
-      <div id="pageContent">
-
-        <div id="chaptersAccordion">
-
-            <h2><a href="#chapter1">Enter your  EMP Details</a></h2>
-            <div>
-              
-
-<p>Enter  the Name: <input type="text" name="ename" size="25" /></p>
-<p>Enter your Username : <input type="text" name="dept" size="15"/></p>
-<p>Enter  the password : <input type="password" name="design" size="25" /></p>
-
-
-            </div>
-
-
-<h2><a href="#chapter2">REGISTER</a></h2>
-            <div>
-              <input type="submit" name="Click">
-<input type="reset" name="Clear">
-            </div>
-
-
-</form>
-
-</body>
-</html>
-
-
-Write   a    Oak java    for  Program8  as   we see  this   same  example   in JSTAR.
-
-rename  it    as    Program8.CH$.exe
-
-and  execute   in  browser.
-
-==============================================
-
-EXAMPLE
-=========
-
-use  wdba.exe  and  rename  it   as wdba.CH$.exe
-
-and  now  excecute  in  browser   as  shown   below...
-
-
-
-A) What   are the  modules   present  in  CHDollar?
-===================================================
-
-CHDollar  is  a  wide  topic focused  only   on  
-
-Proxy Remote  Webapplication  with  TYPE-2  (CLient  and  Server)...
-
-
-There   are    7  modules   present  in  CHDollar...
-
-1)  CHDOLLAR-CH$ (used  for  normalremotewebapplication)(This module is included  in  CHDollar)
-
-2) CHDOLLAR-chdollar-J$-ATM BANKING(This module is included  in  CHDollar)
-
-3)  CHDOLLAR-JSTARPart1-ADVANCEDWEBDESIGN(biometric) and  CHDollar-JSTARPart2(Library  management and other client-server projects)
-
-(This module is included  in  CHDollar)
-
-4)  CHDOLLAR-JWP (used  for  Reservation based  projects )
-
-(This module is included  in  CHDollar)
-
-5)  CHDOLLAR  with  JDollar(JWEB)  Technology...(Here  JDollar(JWEB)  is  focused)
-
-(This module is included  in  CHDollar)
-
-6)  It  is  used  with  C@  and  Arrow# -  Manufacturing  and  statistics domain
-
-(This module is not included in  CHDollar;  you  can  see  more  detail  at  C@  and  Arrow#)
-
-7)  CHDOLLAR  with  CDollar,Gdollar  (OnlineBills , forms,reports)(we can  use  C# Technology)
-
-(This module is included  in  CHDollar)
-
-What  are  the  advantages  of  CH$ P.L  over  JSTAR P.L?
-==========================================================
-
-CH$  is  used  in  variety  of  remote  webapplication  like  BILLING, FORMS,Reports, ATM  banking,  biometric,
-
-Reservation  like  bus,train,cinema  ticket,etc.
-
-
-
-Why  we  focus  CHDollar?
-===========================
-
-Suppose  a   banking  customer  want  to  update  his  account  
-
-in  banking  website..  That  data  or  information   is  stolen by   hackers..
-
-SO  CHDollar  is   used   for  security  side  towards banking  and  finance  domain.
-
-Since  we  already  know  the  fact  that if   you use  .exe or  .dbs   file  in  CHDollar  then
-
-it  will   be  more  safe..
-
-So  CHDollar is    focused  ....
-
-
-
-
-Important  note:
-================
-
-When  you  host   JDollar  or  Chdollar  Servers   in  any  of  your   today
-
-available   hosting   provider.  You   can   see  JDollar  or   CHdollar   website   at  any  mobile phones
-
-or  at  internet.
-
-SO   Hosting    is  mandaltory   for  CHDollar  p.L  and  JDollar  p.l   to  publish   the  webpages.
-
-</html>
-
-=========================================END  OF   CHDOLLAR   TUTORIAL===========================================
-
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">@Remote // &nbsp;to &nbsp;load &nbsp;CHDollar &nbsp;packages<br />
+&lt;PACK&gt; &nbsp;&lt;namecspacename&gt; &nbsp;// &nbsp;pack &nbsp;will &nbsp; act &nbsp;like &nbsp; namespace<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; &lt;Classname&gt;<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp;&lt;! &nbsp;CHDOLLAR &nbsp;LOGIC &nbsp;!&gt;<br />
+&nbsp; &nbsp; &nbsp; }<br />
+&nbsp; &nbsp;}<br />
+}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">note: This should be saved in filename.CH$<br />
+----</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>How Chdollar Technology Works? &nbsp;Or &nbsp;chdollar &nbsp;workflow? (EASY &nbsp;APPROACH &nbsp;than &nbsp;JSTAR)</strong><br />
+======================================================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">At first &nbsp; Developers &nbsp; write &nbsp; a &nbsp;CH$ &nbsp; program &nbsp; &nbsp;and &nbsp;compile</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">using &nbsp;javac &nbsp; &nbsp;filename.CH$ &nbsp;it &nbsp; creates &nbsp; filename.CH$.exe &nbsp;file &nbsp;for &nbsp;that.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">now &nbsp; execute &nbsp; &nbsp;the &nbsp;file &nbsp; at &nbsp;url &nbsp;as &nbsp;filename.CH$ &nbsp;when &nbsp;you &nbsp; run &nbsp;remoteserver &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">the &nbsp; .exe &nbsp; output &nbsp; is &nbsp;displayed &nbsp; in &nbsp;browser &nbsp;as &nbsp;a &nbsp;fast &nbsp; manner.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">============================================================</span></span></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">How to run remoteserver in windows?</span></span></strong></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">click &nbsp;on &nbsp;CHDOLLARSERVER &nbsp; located &nbsp; at &nbsp;CHDOLLAR &nbsp;folder.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">note : default &nbsp;hostname &nbsp;is &nbsp;localhost &nbsp;or ip &nbsp;address.</span></span></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Why &nbsp;we &nbsp; need &nbsp; remotewebapplication? &nbsp;what &nbsp;is &nbsp;the &nbsp;difference &nbsp;between &nbsp;webapplication &nbsp; and &nbsp;this?</span></span></strong></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">webapplication &nbsp; webpages &nbsp; will &nbsp;not &nbsp; travel &nbsp; around &nbsp; web<br />
+but &nbsp;remotewebapplication is &nbsp;seen &nbsp;in internet ,mobiles,<br />
+and all &nbsp;devices.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">==================================================================================<br />
+<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UNIT &nbsp;-2: &nbsp;a) &nbsp;CHDollar &nbsp;with &nbsp;CDollar</strong><br />
+==================================================================================<br />
+<strong>CDOLLARARRAYS</strong><br />
+===============</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CDollarArrays list1 = new CDollarArrays(string);<br />
+to add any collection objects to array use<br />
+add (String) functions and to Display those<br />
+objects use list1.Display();<br />
+Any class that use CDollarArrays you should extends Array in class...</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>TREEOFARRAY</strong><br />
+============</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SYNTAX for TreeofArray:</strong><br />
+--------------------------------------<br />
+TreeArray &lt;name&gt; = new TreeArray(String);<br />
+&lt;name&gt;.add(elements);<br />
+where elements may be string or collections....</span></span></p>
+
+<p><u><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">LISTOFARRAY</span></span></strong></u></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>SYNTAX for List of Array:</strong><br />
+--------------------------------------<br />
+LArray &lt;name&gt; = new LArray(string);<br />
+&lt;name&gt;.add(elements);<br />
+The elements may be string or collection elements.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Operators conditions and loops</strong><br />
+--------------------------------------------------<br />
+Operators<br />
+---------<br />
++ =&gt; ADD<br />
+++=&gt; Increment<br />
+- =&gt; Substract<br />
+--=&gt; Substract<br />
+* =&gt; Mulitply<br />
+/ = Division<br />
+~ =&gt; bitwise unary not operator<br />
+NOT (!) =&gt; flips true values to false and false values to true.<br />
+&gt;&gt;, &gt;&gt;&gt;, and &lt;&lt; =&gt; IT is used to shift all the bits of a number left<br />
+or right<br />
+a Specified number of places...<br />
+<strong>Other Operators</strong><br />
+----------------</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp;# =&gt; != &nbsp;operator<br />
+AND =&gt; &amp;&amp; And operator<br />
+OR =&gt; || OR operator<br />
+?: =&gt; value =condition ? value1 : value2 (similar to if then else)<br />
+== =&gt; compare two values...<br />
+= &nbsp;=&gt; Assignment operators<br />
+Equals &nbsp;=&gt; Compare two objects</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Relational Operators<br />
+--------------------<br />
+&gt; &gt;= =&gt; Greater than , Greater than equals.<br />
+&lt; &lt;= =&gt; Less than , Less than equal<br />
+&nbsp;= or &nbsp;!= =&gt; Equals and not equals</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CONDITIONS<br />
+----------<br />
+IF Syntax:<br />
+------------<br />
+if &lt;condition&gt; statements;<br />
+IF then else Syntax:<br />
+----------------------<br />
+if &lt;condition&gt; statements else statements1<br />
+if &lt;condition&gt; statements1 else if condition1 statement2 .... and soon.<br />
+SWITCH Statements:<br />
+-------------------<br />
+switch (expression)<br />
+{<br />
+case value1 :<br />
+statement1;<br />
+[break]<br />
+................<br />
+case valuen:<br />
+statementn;<br />
+[break]<br />
+-----<br />
+default:<br />
+default_statement;<br />
+}<br />
+Explanation:<br />
+------------<br />
+If the expression is equals value1<br />
+statement1 will be executed.<br />
+if you use break it comes out of the loop<br />
+otherwise it continue to execute next statement.<br />
+The default value at the end is optional. It can be included if there are other values that can be held in<br />
+your variable but that you haven&#39;t checked for elsewhere in the switch statement.<br />
+THE WHILE LOOP<br />
+-----------------------------<br />
+while (&lt;condition&gt; )<br />
+{<br />
+&lt; Statements block&gt;<br />
+}<br />
+Note: if the condition is true the block get executed.<br />
+otherwise the loop will be continued.<br />
+THE DO --- WHILE LOOP<br />
+-----------------------------<br />
+do<br />
+{<br />
+&lt; Statements block&gt;<br />
+}<br />
+while( &lt;conditon&gt; )<br />
+Note: if the condition is true the block get executed.<br />
+and it is tested at the end of the loop, but not at the<br />
+beginning. The loop will be continued until it satisfies the condition.<br />
+biggest reason to be use the do - while loop is that<br />
+when you need the body of the loop to be run atleast once.<br />
+FOR LOOP<br />
+--------<br />
+for ( identifier=value; cond1; iterator operators)<br />
+{<br />
+&lt; Block statements &gt;<br />
+}<br />
+For -EACH Statement<br />
+----------------------<br />
+for ( variable : collection)<br />
+statement;<br />
+for eg)<br />
+If you add integers (1 to 3) to arraylist<br />
+and if you wish to copy and store it in an integer variable<br />
+so that you can print the values that is copied from<br />
+arraylist.<br />
+Then follow this method of for each statements...<br />
+for ( int a in &nbsp;ar)<br />
+{<br />
+&lt; Block statements &gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}<br />
+Output:<br />
+-----------<br />
+value=1<br />
+value =2<br />
+value =3<br />
+CONTINUE and Break<br />
+---------------------------------<br />
+Break means it break out of loop<br />
+and continue means<br />
+it will continue to execute the statements;<br />
+for eg)</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR STRUCTURES<br />
+-----------------------------------<br />
+CHDollar structure is another user defined data type available in CDollar programming, which allows<br />
+you to combine data items of different kinds.<br />
+using the same memmory location. It also provide an efficient way of using the same<br />
+memory location for multi-purpose.<br />
+Thus CHDollar Structures is Equivalent = C progamming Structures and union.<br />
+and it uses less memmory capacity than any Programming languages. IT is also<br />
+used to store collections, object ,etc.<br />
+IT is the most important datastructure implemented by wilmix jemin j.<br />
+He reduces the demerits of C Programming and<br />
+Gdollar &nbsp;child is CHDollar. So CHDollar has very beautiful and Advanced Concepts<br />
+than any Programming Languages.&nbsp;</span></span></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SYNTAX:</span></span></strong></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;STRUCTURE&gt; &lt;datatype&gt; list = &lt;NEW&gt; &lt;STRUCTURE&gt; &lt;datatype&gt;(object);<br />
+list.add(object);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">What is Pointers?</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Variables that hold memory address are called pointers.<br />
+Why we mainly use Pointers?<br />
+Pointers reduces the length and complexity of the program,<br />
+They increase the execution speed.<br />
+It holds the memmory addres..</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SYNTAX of CHDollar Pointers:<br />
+---------------------------------</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">{*}&lt;&lt;DATATYPE&gt;&gt; &lt;pointer-name&gt; Pointer&lt;&lt;DATATYPE&gt;&gt;(intialvalue);<br />
+for eg)<br />
+&lt;Str&gt; s =&quot;Life is beautiful&quot;;<br />
+{*}&lt;&lt;Str&gt;&gt; l Pointer&lt;&lt;Str&gt;&gt;(s);<br />
+The given above statement will store the string &quot;Life is beautiful&quot;<br />
+in Pointer name l;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">==============<br />
+BUCKET<br />
+-------<br />
+Bucket are used to store key,value data, and Generated Random number<br />
+where datatype may be string ,object ,etc.<br />
+SYNTAX:<br />
+----------<br />
+Bucket&lt;DATATYPE&gt; list = &lt;NEW&gt; Bucket&lt;DATATYPE&gt;(&lt;DATATYPEVALUE&gt;);<br />
+list.KeyAdd(&lt;DATATYPEVALUE&gt;);<br />
+list.add(&lt;DATATYPEVALUE&gt;);<br />
+list.RandomAdd();<br />
+list.Display(list);<br />
+Advantages<br />
+----------<br />
+Using Bucket you can also Retrieve the values stored n position.<br />
+Searching and Insertion is fast than other DTS.<br />
+Random Indexing is possible.<br />
+eg) If you store a duplicate value such Random key will be different.<br />
+It also used to add many values.<br />
+EXTEND<br />
+------<br />
+Extend class is used in CDollar since to provide multiple inheritence<br />
+about 100000000 classes . Extends class also list values in methods and<br />
+constructor values.<br />
+Extend means a Bucket contains List of class and it is also<br />
+Behave like Bucket. So it is also one of the Advanced concepts in CDollar.<br />
+SYNTAX:<br />
+--------<br />
+EXTEND &lt;&lt;DATATYPE&gt;&gt; list11 = &lt;NEW&gt; EXTEND &lt;&lt;DATATYPE&gt;&gt; (STRING);<br />
+list.KeyAdd(&lt;DATATYPEVALUE&gt;);<br />
+list.add(&lt;DATATYPEVALUE&gt;);<br />
+list.RandomAdd();<br />
+list.Display(list);<br />
+Advantages:<br />
+It is also used to add many values<br />
+Indexing is possible<br />
+Value can also be list by index and behave like bucket.<br />
+It list only the class value and object value.<br />
+It is stateless.<br />
+PIPE:<br />
+-----<br />
+PIPE is used to maintain stateful state.<br />
+It is used for DataFlow in a Program. We can also add the values,<br />
+Constructor values of one class and other class and display it.<br />
+It also list the values from the Bucket.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SYNTAX:<br />
+-------<br />
+Pipe &lt;&lt;DATATYPE&gt;&gt; list11 = &lt;NEW&gt; Pipe &lt;&lt;DATATYPE&gt;&gt; (STRING);<br />
+list.KeyAdd(&lt;DATATYPEVALUE&gt;);<br />
+list.add(&lt;DATATYPEVALUE&gt;);<br />
+list.RandomAdd();<br />
+list.Display(list);<br />
+Why we Prefer CDollar for software Field?<br />
+Used in BILLS, Forms ,Reports,Charts, any software project , GRAPHICS to web etc.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>CHDollar ADvantages over JAVA and other Programming Languages</strong><br />
+----------------------------------------------------------------------------------<br />
+A) CHDollar is the combination of &nbsp;C# , C/C++, and Advanced OOPS.<br />
+b) CHDollar will only accept the shortest attractive syntax.<br />
+c) CHDollar also used for construction of any datastructures.<br />
+d) &nbsp;it &nbsp;is &nbsp; easy &nbsp;to &nbsp; focus &nbsp;,learn and &nbsp;use.<br />
+e) It also supports friendly function, pointers , and structures.<br />
+f) CHDollar support Virtual memmory and garbage collection.<br />
+g) It is efficient, fast and easy to understand, and it is a OOPS Technology.<br />
+h) CHDollar is a High level language.<br />
+i) CHDollar is highly portable language<br />
+j) Using CHDollar you can create any datastructures as libraries and<br />
+use it in your Application program.<br />
+k) CHDollar language is a structured and object programming language.<br />
+l) CHDollar has OOPS concepts like JAVA.<br />
+m) CHDollar have the concept of Packages,etc.<br />
+n) CHDollar have the concept of constructor or destructor and had magic oops concepts.<br />
+o) It Support functions with Default Arguments<br />
+q) It Supports Exception handling<br />
+r) It have pointer and Nodes..<br />
+s) CHDollar is much simpler oops concepts, which leads to faster development and less mental overhead.<br />
+t) CHDollar is almost always explicitly compiled<br />
+u) CHDollar is easy to learn. CHDollar was designed to be easy to use and is therefore easy to write,compile, debug, and learn than other programming languages.<br />
+CHDollar is object-oriented. This allows you to create modular programs and reusable code.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">v) CHDollar creates &nbsp;.class, &nbsp;.exe &nbsp;or &nbsp;.dll &nbsp; files &nbsp; and &nbsp;it &nbsp;can be &nbsp;used &nbsp;with &nbsp; CHDollar &nbsp;main &nbsp;program. &nbsp; &nbsp;&nbsp;<br />
+w) CHDollar will compile and run at same time where other technology can&#39;t<br />
+do<br />
+x) CHDollar is mainly used in complex programming , Billing the<br />
+goods,Graphics,etc</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">y) &nbsp;CHDollar &nbsp;is &nbsp; used &nbsp;with OAKJAVA</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">z) &nbsp;CHDollar &nbsp; has &nbsp; Advanced &nbsp;OOPS &nbsp;like &nbsp;CDollar &nbsp; &nbsp;, &nbsp;and &nbsp;GDollar.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">AA) CHDollar is an interactive Technology.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">BB) &nbsp;CHDOLLAR &nbsp;is &nbsp; &nbsp;used &nbsp;as &nbsp;a &nbsp;remote &nbsp;webapplication</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">FAQS<br />
+------<br />
+A) A C /C++ Programmer or any oops developer &nbsp; &nbsp;or &nbsp;C# &nbsp;programmer &nbsp;<br />
+&nbsp;can easily study it....</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">========================================================================<br />
+<strong>UNIT -3 :CHDOLLAR &nbsp;Program Syntax &nbsp;AND ADVANCED &nbsp; CONCEPTS &nbsp;PROGRAM.</strong><br />
+========================================================================<br />
+<u>Syntax:</u></span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &lt;nAMESPACE&gt;<br />
+&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; &lt;CLASSNAME&gt;<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&lt;! &nbsp;CHDOLLAR &nbsp;LOGIC!&gt; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">BAG<br />
+=====<br />
+Bag is the extension of LinkedHashmap and it is the fastest<br />
+datastructures than Dictionary.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SYNTAX:<br />
+=======</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Bag object = new Bag();<br />
+object .put(key,value);<br />
+Functions<br />
+getValues(key) =&gt; it is used to get the values for a particular key<br />
+get(key,loc) =&gt; it is used to get the value stored at a loc (indexing<br />
+purpose)<br />
+boolean containsValue(object Value) =&gt; To check the value present in bag or<br />
+not.<br />
+put(key,value) =&gt; it is used to add key and value in Bag<br />
+remove(key ,value) =&gt; It is used to remove key and value.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">TreeList<br />
+========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">TreeList simillar to Bucket but store items in tree format.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">TreeList list = new TreeList (&quot;BUCKETS&quot;);<br />
+list.KeyAdd(KEY);<br />
+list.add(VALUE1);<br />
+list.RandomAdd(RANDOMNO);<br />
+list.DisplayO(list,0);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MASK<br />
+====<br />
+It is the extension of Tree Structure and it can store many values<br />
+using mask object and we can also retrieve the values stored in mask.<br />
+Mask m = new Mask(&lt;DATATYPE&gt;);<br />
+m.add(multiple values);<br />
+m.getR(Loc); =&gt; Get the values stored in right position<br />
+m.getL(LOC) =&gt; Get the values stored in left position</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HEAP:<br />
+====</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Creates a tree , puts the data into tree in a fairly balanced way and displays<br />
+the tree&#39;s size and data in a tree by performing an inorder traversal.<br />
+Heap hob = new Heap(&lt;datatype&gt;);<br />
+hob.add(datum);<br />
+hob = new Heap(key,value1,value2);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Bucktist<br />
+==========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Bucktist is similalr to Bucket but it is used to addd two values with one<br />
+key.<br />
+Bucktist l = null;<br />
+l= new Bucktist(key,value1,value2);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">WICKET<br />
+=======<br />
+Wicket is used to store multiple values using same object with<br />
+4 values per key.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Syntax:</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Wicket list12;<br />
+list12=new Wicket(key,v1,v2,v3,v4);<br />
+list12.Display();<br />
+list12.Display(list12,location);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPLE -1: BAG</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP<br />
+&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Bag &nbsp;b &lt;NEW&gt; Bag();</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">b.PUT(1,34);<br />
+b.PUT(2,444);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;&quot;+b);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPLE:2 &nbsp;: CHDOLARARRAYS<br />
+==========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;<br />
+&lt;USE&gt; &nbsp;CUTIL;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;AList&gt; &nbsp;ar &lt;NEW&gt; &lt;AList&gt; ();<br />
+&nbsp;for &nbsp;(int &nbsp;i=0;i&lt;=100000;i++)<br />
+&nbsp;ar.add(i,i);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;&lt;CDOLLARARRAYS&gt; list1 &lt;NEW&gt; &nbsp;&lt;CDOLLARARRAYS&gt;(&quot;ANIMALS &quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; list1.add(&quot;1 horse&quot;);<br />
+&nbsp;list1.add(&quot;2 pig&quot;);<br />
+&nbsp;list1.add(&quot;3 cow&quot;);<br />
+&nbsp;list1.add(&quot;4 goat&quot;);<br />
+&nbsp;list1.add(&quot;5 chicken&quot;);<br />
+&nbsp;<br />
+&nbsp;list1.add(&quot;6 ostrich&quot;);<br />
+&nbsp;list1.Display();</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPLE-3: CREATE &nbsp;AN &nbsp;BOOTLOADER &nbsp; Using &nbsp;CHDOLLAR</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;MYOS<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; MYOs<br />
+&nbsp; &nbsp; {<br />
+public FLOAT CHDollar-MAIN(){</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;HelloWorld &nbsp;for &nbsp;booting &nbsp;MYOS&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPE-4: POINTERS</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;<br />
+&lt;PACK&gt; MyP<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;&lt;Str&gt; &nbsp;s=&quot;dsdds&quot;;<br />
+&nbsp;<br />
+&nbsp;{*} l Pointers (s); &nbsp;<br />
+&nbsp;<br />
+l.add(s);<br />
+&nbsp;<br />
+&nbsp;for (int i = 0; i NOT= l.size(); i = i + 1)<br />
+&nbsp;{<br />
+&nbsp;<br />
+&nbsp;&lt;OBJECT&gt; obj=l.GETKEY(i);<br />
+&nbsp;&lt;PRINTLN&gt;(obj);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;}<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-6: EXTEND</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;IMPORT&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; &lt;%<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;EXTEND list &lt;NEW&gt; EXTEND(&quot;BUCKETS&quot;);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp; &nbsp; &nbsp; list.KeyAdd(&quot;1101&quot;); &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.add(&quot;jemin&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.RandomAdd(); &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.Display(list);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&lt;PRINTLN&gt;(&quot;&quot;+list.DisplayO(list,1));</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+%&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPLE-7: HEAP</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP<br />
+{<br />
+&nbsp; &nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;Heap root &lt;NEW&gt; Heap(&quot;wilmix&quot;);<br />
+&nbsp;<br />
+&nbsp;for (int i = 0; i &lt;= 10; i = i + 1)<br />
+&nbsp;{<br />
+&nbsp;root.add(&quot;item &quot; + i);<br />
+&nbsp;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp;&lt;PRINTLN&gt;(root.size() );<br />
+&nbsp;root.printTree();</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-8: LArray</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp;<br />
+&nbsp;LArray root &lt;NEW&gt; LArray(&quot;root&quot;);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;root.add(&quot;wilmix&quot;);<br />
+&nbsp;root.add(&quot;jemin&quot;);<br />
+&nbsp;root.add(&quot;shalom&quot;);<br />
+&nbsp;root.add(&quot;1010&quot;);<br />
+&nbsp;root.add(&quot;101&quot;);<br />
+&nbsp;root.add(&quot;201&quot;);<br />
+&nbsp;root.add(&quot;100000000&quot;);<br />
+&nbsp;//print the tree&#39;s size and contents<br />
+&nbsp;<br />
+&nbsp;root.printTree();</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-9 : PIPE</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Pipe list &nbsp;&lt;NEW&gt; Pipe(&quot;BUCKETS&quot;);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp; &nbsp; &nbsp; list.KeyAdd(&quot;1101&quot;); &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.add(&quot;jemin&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.RandomAdd(); &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.Display(list);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;&quot;+list.DisplayO(list,1));</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPLE-10: TREELIST</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {</span></span><br />
+&nbsp;</p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">TreeList list &nbsp;&lt;NEW&gt; TreeList (&quot;BUCKETS&quot;);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp; &nbsp; &nbsp; list.KeyAdd(&quot;1101&quot;); &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.add(&quot;jemin&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list.RandomAdd(&quot;1111&quot;); &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">TreeList list2 &lt;NEW&gt; TreeList(&quot;BUCKETS&quot;);<br />
+&nbsp;list2.KeyAdd(&quot;1102&quot;); &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list2.add(&quot;rahul&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;list2.RandomAdd(&quot;1112&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;DATA=&quot;+list.DisplayO(list,0));</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;DATA=&quot;+list2.DisplayO(list2,0));</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-11 : MASK</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; My<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;MASK root &lt;NEW&gt; MASK(&quot;wilmix&quot;);<br />
+&nbsp;<br />
+&nbsp;for (int i = 0; i NOT= 10; i = i + 1)<br />
+&nbsp;{<br />
+&nbsp;root.add(&quot;item &quot; + i);<br />
+&nbsp;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;root &lt;NEW&gt; MASK(&quot;root1&quot;,1211211,54441);<br />
+&nbsp;<br />
+&nbsp;root &nbsp;&lt;NEW&gt; MASK(&quot;root2&quot;,121121,5444);<br />
+&nbsp;root &nbsp;&lt;NEW&gt; MASK(&quot;root5&quot;,99121888,&quot;5&quot;);<br />
+&nbsp;<br />
+&nbsp;root &nbsp;&lt;NEW&gt; MASK(&quot;root3&quot;,12112,544);<br />
+&nbsp;<br />
+&nbsp;root &nbsp;&lt;NEW&gt; MASK(&quot;root4&quot;,1211,54);<br />
+&nbsp;<br />
+&nbsp;root &nbsp;&lt;NEW&gt; MASK(&quot;root51&quot;,121,5);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;root.printTree();</span></span><br />
+&nbsp;</p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-12 : WICKET</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyPo<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp;Wicket &nbsp;list12;<br />
+&nbsp;list12 &lt;NEW&gt; Wicket(1000,10002,43433,4343,5555451);<br />
+&nbsp;list12 &lt;NEW&gt; Wicket(10001,100021,434331,4343,5555452);<br />
+&nbsp;list12 &lt;NEW&gt; Wicket(10002,100022,434332,4343,5555453);<br />
+&nbsp;list12 &lt;NEW&gt; Wicket(10003,100023,434333,4343,5555454);<br />
+&nbsp;list12 &lt;NEW&gt; Wicket(10004,100024,434334,4343,5555455);<br />
+&nbsp;list12 &lt;NEW&gt; Wicket(10005,100025,434335,4343,5555456);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;list12.Display(list12);<br />
+&nbsp;<br />
+&nbsp;&lt;PRINTLN&gt;(&quot;DATA=&quot;+list12.DisplayO(list12,0));<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-13 : STRUCTURE</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;<br />
+&lt;PACK&gt; MyPoi<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;&lt;Str&gt; &nbsp;s=&quot;dsdds&quot;;<br />
+&nbsp;<br />
+&nbsp;{*} l Pointers(s); &nbsp;<br />
+&nbsp;<br />
+l.add(s);<br />
+&nbsp;<br />
+&nbsp;for (int i = 0; i NOT= l.size(); i = i + 1)<br />
+&nbsp;{<br />
+&nbsp;<br />
+&nbsp;&lt;OBJECT&gt; obj=l.GETKEY(i);<br />
+&nbsp;&lt;PRINTLN&gt;(obj);<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;}<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;&lt;STRUCTURE&gt; &nbsp;list &lt;NEW&gt; &lt;STRUCTURE&gt; (l.GETKEY(0));<br />
+&nbsp;<br />
+&nbsp;for (int i11 = 0; i11 NOT= list.size(); i11 = i11 + 1)<br />
+&nbsp;{<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;&lt;OBJECT&gt; &nbsp;el=list.ret(i11);</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+&nbsp;&lt;PRINTLN&gt;(&quot;SNO= &quot;+el);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Example-14 : BUCKETIST</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">bucketist.java<br />
+&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; MyP<br />
+{<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Programs<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {</span></span><br />
+&nbsp;</p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Bucketist &nbsp;bp &nbsp; &nbsp;&lt;NEW&gt; &nbsp;Bucketist(&quot;wilmix&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">bp &nbsp; &nbsp;&lt;NEW&gt; &nbsp;Bucketist(1,222,434);<br />
+bp &nbsp; &lt;NEW&gt; &nbsp;Bucketist(1,222,434);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">bp.Display(bp);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;DATA=&quot;+bp.DisplayO(bp,1));<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Note: &nbsp;This &nbsp;CHDOLLAR - Tutorial- EXERCISES &nbsp; is &nbsp;a &nbsp;Practical &nbsp;Exercises &nbsp; &nbsp;for CDollar &nbsp;Programmers &nbsp;we &nbsp;can &nbsp;use &nbsp;CHDOLLAR-LIB DLL &nbsp; &nbsp; in &nbsp;CHDollar &nbsp; program</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">==================================================================================<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>&nbsp; UNIT:4 &nbsp;: &nbsp;CHDOLLARJAVA , &nbsp;CHDOLLAR &nbsp;with &nbsp;WDBA DB</strong><br />
+==================================================================================<br />
+CHDOLLARJAVA<br />
+=============<br />
+CHDOLLARJAVAC &nbsp;compiler &nbsp;is &nbsp;to &nbsp; compile &nbsp; .CH$ &nbsp; file &nbsp;and &nbsp;produces &nbsp; .exe &nbsp; and &nbsp;.dll<br />
+which &nbsp;can &nbsp;be &nbsp;reused &nbsp;by other &nbsp;CH$ &nbsp;program.<br />
+CHDollar-JAVA &nbsp; which &nbsp;is &nbsp;used &nbsp;to &nbsp;run &nbsp; .exe &nbsp; files.</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">================================================================</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>UNIT-5: &nbsp;CH$ &nbsp;Remote &nbsp;Webpage &nbsp;Syntax &nbsp;</strong></span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">===============================================================</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SYNTAX to &nbsp;execute &nbsp;executable files &nbsp;by &nbsp;remoteserver:</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Compile &nbsp; using &nbsp; javac &nbsp;filename.CH$ &nbsp;will &nbsp;create &nbsp; filename.CH$.exe</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Rename &nbsp; .exe &nbsp; files &nbsp; as &nbsp; &nbsp;filename.CH$.exe</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;execute &nbsp;filename.CH$ &nbsp;in browser &nbsp;the &nbsp;.exe &nbsp;output &nbsp;will &nbsp;be &nbsp;displayed</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">in the &nbsp;browser.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>What &nbsp;is &nbsp;the &nbsp;syntax &nbsp;to &nbsp;get and &nbsp;spliting &nbsp;the &nbsp;parameters ?</strong><br />
+=====================================================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;AList&gt; &lt;String&gt; armg=SPLITREQUEST.RESULT(arraylistobject,&quot;arraylist.dsn&quot;,howmanyGUI,incrementor);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">it &nbsp;is &nbsp;used &nbsp; to &nbsp;get &nbsp; the &nbsp;value &nbsp;from &nbsp; WeBGui like &nbsp;text &nbsp;box &nbsp;,etc.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;filename.html&quot;) =&gt; &nbsp;it &nbsp;is &nbsp;used &nbsp;to &nbsp;print &nbsp;the &nbsp;html &nbsp;form contents &nbsp;<br />
+in &nbsp;the &nbsp;webpage. and &nbsp;it &nbsp;is &nbsp;used in &nbsp;CHDOLLAR-AJAX.</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Print.Println(datatype,datatype) &nbsp; for &nbsp; CH$ &nbsp;program.</span></span></p>
+
+<p><u><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">MY &nbsp;FIRST &nbsp;CH$ &nbsp;PROGRAM</span></span></u></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">@Remote<br />
+&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; MyArray<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int [] &nbsp;n = new int[15]; /* n is an array of 15 integers */<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;int i,j;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">ArrayList &nbsp;ar &nbsp;= &nbsp;new &nbsp;ArrayList();</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/* initialize elements of array n */<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;for ( i = 0; i &lt; 15; i++ )<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; n[ i ] = i + 100;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">ar.add(i,n[i]);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/* output each array elements value */<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;for (j = 0; j &lt; 15; j++ )<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Print.Println(&quot;&quot;+j,&quot;&quot;+ar.get(j).ToString()); // &nbsp;To String &nbsp; to &nbsp;convert object &nbsp;to &nbsp;String.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;}<br />
+&nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; }<br />
+&nbsp; &nbsp;}<br />
+}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">now &nbsp; compile &nbsp; using &nbsp; javac &nbsp;wil.CH$</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">what &nbsp; happens?</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">It &nbsp;produces &nbsp;the &nbsp; .exe &nbsp; file &nbsp; wil.CH$.exe.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Write &nbsp; a &nbsp; &nbsp;CHDOllar &nbsp;Program with &nbsp;GDollar &nbsp;module(use &nbsp;Book dts):</strong><br />
+=======================================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">TS.java<br />
+=======</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; TS<br />
+&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Y<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+BOOK &nbsp;u &nbsp; &lt;NEW&gt; &nbsp;BOOK(&quot;Wilmix&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">for (int i=0;i&lt;=100;i++)<br />
+u.add(&quot;col&quot;+i);//add &nbsp;the &nbsp;values to &nbsp;book&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">for (int i=0;i&lt;=100;i++)<br />
+&lt;PRINTLN&gt;(&quot;&quot;+u.ret(i));// print &nbsp;the book values</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Write &nbsp; a &nbsp; Remote &nbsp;webpage &nbsp; program using &nbsp;CH$?</strong><br />
+===================================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">a)tre.CH$<br />
+========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; HierachialTree<br />
+&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; roots<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;Bag &nbsp;tree &lt;NEW&gt; Bag();<br />
+&nbsp;<br />
+&nbsp; Bag &nbsp;Member &lt;NEW&gt; Bag();</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; //add &nbsp;a,b,c,d to &nbsp;class5 &nbsp;section and class6 &nbsp; to &nbsp;class6 section<br />
+&nbsp; &nbsp; &nbsp;&nbsp;<br />
+Member.PUT(&quot;A&quot;,&quot;CLASS5&quot;);<br />
+Member.PUT(&quot;B&quot;,&quot;CLASS5&quot;);<br />
+Member.PUT(&quot;C&quot;,&quot;CLASS5&quot;);<br />
+Member.PUT(&quot;D&quot;,&quot;CLASS5&quot;);<br />
+Member.PUT(&quot;CLASS6&quot;,&quot;CLASS6&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">//add &nbsp;s1,s2,s11,s21,s12,s22 &nbsp;slibings.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;Bag &nbsp;slibings &lt;NEW&gt; Bag();<br />
+slibings.PUT(&quot;A&quot;,&quot;s1&quot;);<br />
+slibings.PUT(&quot;A&quot;,&quot;s2&quot;);<br />
+slibings.PUT(&quot;B&quot;,&quot;s11&quot;);<br />
+slibings.PUT(&quot;B&quot;,&quot;s21&quot;);<br />
+slibings.PUT(&quot;C&quot;,&quot;s12&quot;);<br />
+slibings.PUT(&quot;C&quot;,&quot;s22&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">//add &nbsp;cricket,read,swin &nbsp;to &nbsp;activities..</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Bag &nbsp;activity &lt;NEW&gt; Bag();<br />
+activity.PUT(&quot;s1&quot;,&quot;cricket&quot;);<br />
+activity.PUT(&quot;s2&quot;,&quot;read&quot;);<br />
+activity.PUT(&quot;s21&quot;,&quot;swim&quot;);<br />
+activity.PUT(&quot;s12&quot;,&quot;swim&quot;);<br />
+tree.PUT(1,Member);<br />
+tree.PUT(2,slibings);<br />
+tree.PUT(3,activity);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">activity.remove(&quot;s1&quot;,&quot;cricket&quot;);<br />
+//remove &nbsp;cricket &nbsp;activity<br />
+tree.remove(3,activity);<br />
+//remove &nbsp;activity &nbsp;object<br />
+tree.PUT(3,activity);<br />
+//again &nbsp;put the &nbsp;activity &nbsp;to &nbsp;3 &nbsp;index</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">//so &nbsp;what will be &nbsp;the &nbsp;output?</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PRINTLN&gt;(&quot;output=&quot;+tree.containsValue(Member));<br />
+//this &nbsp;print &nbsp;statement &nbsp;will &nbsp; print &nbsp;output=true<br />
+&nbsp;&nbsp;<br />
+//this &nbsp;print &nbsp;statement &nbsp;will &nbsp;print &nbsp;tree &nbsp;values<br />
+&nbsp; &nbsp;&lt;PRINTLN&gt;(&quot;output=&quot;+tree); &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">on &nbsp;compilation &nbsp; with &nbsp;CWE &nbsp;EDITOR</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">will &nbsp;create &nbsp; tre.exe &nbsp;file &nbsp; for &nbsp;futhure &nbsp;use...</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;rename &nbsp;it &nbsp; as &nbsp;tre.CH$.exe &nbsp;and &nbsp; execute &nbsp; it &nbsp;in &nbsp;browser.</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Write &nbsp; a &nbsp; remote &nbsp;webpage &nbsp;program &nbsp;for &nbsp;that?</strong></span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">b)CH$ remote webpage &nbsp;using &nbsp;BOOK dts</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; TS<br />
+&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Y<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+BOOK &nbsp;u &nbsp; &lt;NEW&gt; &nbsp;BOOK(&quot;Wilmix&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">for (int i=0;i&lt;=100;i++)<br />
+u.add(&quot;col&quot;+i);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">for (int i=0;i&lt;=100;i++)<br />
+&lt;PRINTLN&gt;(&quot;&quot;+u.ret(i));</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">follow &nbsp;the &nbsp;same &nbsp;procedure &nbsp;as &nbsp;i said &nbsp;above..</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;create &nbsp;a &nbsp; remotewebpage &nbsp;for &nbsp;that.....</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">c) &nbsp;Create &nbsp; a &nbsp; &nbsp;CH$ using &nbsp;wnosql &nbsp;db</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">wdba.java<br />
+=========</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHDollar&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;USE&gt; CDollar.WDBA;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;USE&gt; WDBA;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; TSwdba<br />
+&lt;%<br />
+&nbsp; &nbsp; &lt;CLASS&gt; Ywdba<br />
+&nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; public FLOAT CHDollar-MAIN()<br />
+&nbsp; &nbsp; &nbsp; &nbsp; {<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+string g = WDBASQL.WDBASQLS(&quot;datastores&quot;, &quot;USEDATABASE&quot;, &quot;dbpwds&quot;, &quot;C:\\Prog\\WNOSQ\\WNOSQL\\WNOSQL-cod&quot;);&nbsp;<br />
+//path where &nbsp;.wdba &nbsp;serverer files &nbsp;is &nbsp;stored &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; string t = WDBASQL.WDBASQLS(&quot;dbuser&quot;, &quot;dbpwds&quot;, 1, &quot;wilmix78&quot;, &quot;wilmix78&quot;, 1, 5, g);<br />
+//supply &nbsp;username &nbsp;and &nbsp;password</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; string s11 = &quot;RIGHTJOIN from student 0 to 1 , 1 to 4 ?= emp For X f(x) : {0,1,2,3,4,5,6,7,8,9,10,11} : {0,1,2,3,4,5,6,7,8,9,10,11} : {0}&quot;;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">//perform &nbsp;right &nbsp;join &nbsp;between &nbsp; student &nbsp;and &nbsp;employee</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;string s1 = &quot;SelectAll from student 0 to 1 , 1 to 4 ?= XXX By X f(x) : {0,1,2}: {3,4,5} :{2,4}&quot;;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">//select * &nbsp;from &nbsp;stodent &nbsp;from &nbsp;0 &nbsp; to &nbsp;1</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;PRINTLN&gt;(&quot;&quot;+SQL.WDBAQUERY( &nbsp;s1, &nbsp;t));<br />
+//print &nbsp; the &nbsp; select(*) Query<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;PRINTLN&gt;(&quot;&quot; + SQL.WDBAQUERY(s11, t));<br />
+//Print &nbsp;rightjoin &nbsp;query</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">%&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">?&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">compile &nbsp;using &nbsp;CWE &nbsp;EDITOR &nbsp; and &nbsp;create wdba.exe&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;rename &nbsp; as &nbsp; wdba.CH$.exe &nbsp;and</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">put &nbsp;it &nbsp;in CH$/bin directory</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;rename &nbsp;it &nbsp; as &nbsp;abc6.CH$.exe &nbsp;and &nbsp; execute &nbsp; it &nbsp;in &nbsp;browser.</span></span></p>
+
+<p><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">===============================================================<br />
+<strong>UNIT-6:<br />
+=======<br />
+CH$ &nbsp;AJAX ,CH$ &nbsp;Forms , Bills,etc,Animation &nbsp;and &nbsp;Graphics</strong></span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">==================================================================================&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR &nbsp;SERVLET<br />
+==================<br />
+Print.Println(&quot;string&quot;,&quot; &quot;);<br />
+this &nbsp; above &nbsp; statement &nbsp;will &nbsp;print &nbsp;the string &nbsp;on the &nbsp;webpage &nbsp;will<br />
+act like &nbsp;chdollar &nbsp;servlet</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLARAJAX<br />
+==============<br />
+Print.Println(&quot;&lt;form action=BILL.CH$ method=post&gt;&quot;,&quot;&quot;);<br />
+if &nbsp;BILL.CH$ &nbsp;is &nbsp;the &nbsp;current &nbsp;CH$ program &nbsp;when &nbsp;you &nbsp;give<br />
+method=post &nbsp;and &nbsp;action=CH$ &nbsp;it will act like &nbsp;CH$ &nbsp;AJAX.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR WXML &nbsp;METHODS<br />
+=======================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SYNTAX:<br />
+=======</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">WXML.wxml&lt;PARSE&gt;r(&quot;filename.wxml&quot;, wxmlindex,string+&quot;&quot;);</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">for &nbsp;example)<br />
+WXML.wxml&lt;PARSE&gt;r(&quot;bill.wxml&quot;, 4,s3+&quot;&quot;);<br />
+=&gt; this &nbsp;statement &nbsp;is &nbsp; &nbsp;used &nbsp;to print &nbsp;bill , Forms,TABLES.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">4=&gt; indicates &nbsp;bill &nbsp;format<br />
+1=&gt; indicates &nbsp;Forms<br />
+2=&gt; indicates TABLES</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR &nbsp;MVC<br />
+===============</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDOLLAR &nbsp;MVC &nbsp; is &nbsp;userdefined &nbsp;it &nbsp; is &nbsp; very &nbsp;easy for &nbsp;developers<br />
+to &nbsp;focus like struts.<br />
+take &nbsp;3 class &nbsp;Model(wdba &nbsp;database code) , formview &nbsp;(with set &nbsp;and get &nbsp;methods),<br />
+controller .</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">call &nbsp; &nbsp;controller &nbsp;class &nbsp; result &nbsp; to &nbsp;CH$ &nbsp;main &nbsp;program</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">ie)</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">public void &nbsp;main()<br />
+{</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">String &nbsp;name= ///parametervalue<br />
+//this &nbsp; &nbsp;statements &nbsp; are &nbsp;mandaltory &nbsp; eg)</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">//to &nbsp;get &nbsp; the &nbsp;value &nbsp;from &nbsp; WeBGui like &nbsp;text &nbsp;box &nbsp;,etc.</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">controller.set(name); //set &nbsp;form values.<br />
+CHDollar.out.println(controller.get());<br />
+//this &nbsp; statement &nbsp;will print &nbsp;the &nbsp;output &nbsp;in webpage<br />
+}</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CH$ &nbsp;GRAPHICS<br />
+==============<br />
+html1.html<br />
+===========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;!DOCTYPE html&gt;<br />
+&lt;html&gt;<br />
+&lt;body&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;p&gt;Image to use:&lt;/p&gt;<br />
+&lt;img id=&quot;scream&quot; src=&quot;http://www.en.planettours.bg/02/images/Bodrum/thumbnail.ashx.jpeg&quot; alt=&quot;The Scream&quot; width=&quot;220&quot; height=&quot;277&quot;&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;p&gt;Canvas to fill:&lt;/p&gt;<br />
+&lt;canvas id=&quot;myCanvas&quot; width=&quot;250&quot; height=&quot;300&quot;<br />
+style=&quot;border:1px solid #d3d3d3;&quot;&gt;<br />
+Your browser does not support the HTML5 canvas tag.&lt;/canvas&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;p&gt;&lt;button onclick=&quot;myCanvas()&quot;&gt;Try it&lt;/button&gt;&lt;/p&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;script&gt;<br />
+function myCanvas() {<br />
+&nbsp; &nbsp; var c = document.getElementById(&quot;myCanvas&quot;);<br />
+&nbsp; &nbsp; var ctx = c.getContext(&quot;2d&quot;);<br />
+&nbsp; &nbsp; var img = document.getElementById(&quot;scream&quot;);<br />
+&nbsp; &nbsp; ctx.drawImage(img,10,10);<br />
+}<br />
+&lt;/script&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/body&gt;<br />
+&lt;/html&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">graphics.CH$<br />
+============</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; graphics<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;html1.html&quot;);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}<br />
+}</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Animate with &nbsp;JQUERY<br />
+======================<br />
+animate.html<br />
+===========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;!DOCTYPE html&gt;<br />
+&lt;html&gt;<br />
+&lt;head&gt;<br />
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js&quot;&gt;&lt;/script&gt;<br />
+&lt;script&gt;<br />
+$(document).ready(function(){<br />
+&nbsp; &nbsp; $(&quot;button&quot;).click(function(){<br />
+&nbsp; &nbsp; &nbsp; &nbsp; var div = $(&quot;div&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; div.animate({left: &#39;500px&#39;}, &quot;slow&quot;);<br />
+&nbsp; &nbsp; &nbsp; &nbsp; div.animate({fontSize: &#39;3em&#39;}, &quot;slow&quot;);<br />
+&nbsp; &nbsp; });<br />
+});<br />
+&lt;/script&gt;<br />
+&lt;/head&gt;<br />
+&lt;body&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;button&gt;Start &lt;/button&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;div style=&quot;background:#98bf21;height:100px;width:200px;position:absolute;&quot;&gt;WELCOME TO CH$ &lt;/div&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/body&gt;<br />
+&lt;/html&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">animate.CH$<br />
+============</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; MyArray<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;animate.html&quot;);<br />
+} &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+&nbsp;<br />
+CH$ with &nbsp;ANGULAR JS<br />
+=======================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">ang.html<br />
+========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;!DOCTYPE html&gt;<br />
+&lt;html&gt;<br />
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js&quot;&gt;&lt;/script&gt;<br />
+&lt;body&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;div ng-app=&quot;&quot;&gt;<br />
+&nbsp;<br />
+&lt;p&gt;Kindly &nbsp;type in &nbsp;the &nbsp;text &nbsp;box:&lt;/p&gt;<br />
+&lt;p&gt;Name : &lt;input type=&quot;text&quot; ng-model=&quot;name&quot; placeholder=&quot;Enter your &nbsp;favourite language&quot;&gt;&lt;/p&gt;<br />
+&lt;h1&gt;Welcome &nbsp;to {{name}} Programming!&lt;/h1&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/div&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/body&gt;<br />
+&lt;/html&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;&nbsp;<br />
+angular.CH$<br />
+=============</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; MyArray<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;ang.html&quot;);<br />
+} &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">bootstrap.html<br />
+=============</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;!DOCTYPE html&gt;<br />
+&lt;html&gt;<br />
+&lt;head&gt;<br />
+&nbsp; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;<br />
+&nbsp; &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css&quot;&gt;<br />
+&nbsp; &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js&quot;&gt;&lt;/script&gt;<br />
+&nbsp; &lt;script src=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;<br />
+&lt;/head&gt;<br />
+&lt;body&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;div class=&quot;container&quot;&gt;<br />
+&nbsp; &lt;h2&gt;MY HOMEPAGE&lt;/h2&gt;<br />
+&nbsp; &lt;p&gt;MY &nbsp;HOME &nbsp;PAGE&lt;/p&gt;<br />
+&nbsp; &lt;ul class=&quot;breadcrumb&quot;&gt;<br />
+&nbsp; &nbsp; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;<br />
+&nbsp; &nbsp; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;ABOUTME&lt;/a&gt;&lt;/li&gt;<br />
+&nbsp; &nbsp; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;FAQS&lt;/a&gt;&lt;/li&gt;<br />
+&nbsp; &nbsp; &lt;li class=&quot;active&quot;&gt;Contactme&lt;/li&gt;<br />
+&nbsp; &lt;/ul&gt;<br />
+&lt;/div&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/body&gt;<br />
+&lt;/html&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">angular.CH$<br />
+===========</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; MyArray<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;bootstrap.html&quot;);<br />
+} &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">What &nbsp; &nbsp;is &nbsp;the &nbsp;directory &nbsp; structure &nbsp; &nbsp;for &nbsp;CH$?</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Note:</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">The &nbsp; &nbsp;Necessary &nbsp;files &nbsp; &nbsp;needed &nbsp; for &nbsp;CHDollar &nbsp;is &nbsp; &nbsp;chdollar -javac , &nbsp;chdollar -java &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;CWEEditor -cdrun &nbsp; to &nbsp; execute &nbsp; .exe &nbsp;files &nbsp; &nbsp;and &nbsp;create &nbsp;.dll &nbsp; files.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDollar &nbsp;P.L &nbsp; is &nbsp;designed &nbsp; so &nbsp;that &nbsp; &nbsp; &nbsp;C# &nbsp; Professionals ,C/C++ &nbsp;can &nbsp;easily &nbsp;follow &nbsp;it.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">index.CH$<br />
+=========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; index<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;Register.html&quot;);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}<br />
+}</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Register.html</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;html&gt;<br />
+&nbsp; &lt;head&gt;<br />
+&nbsp; &nbsp; &lt;title&gt;GCLOUDOS &nbsp;USER &nbsp;REGISTRATION&lt;/title&gt;<br />
+&nbsp; &nbsp;&nbsp;<br />
+&nbsp; &lt;/head&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &lt;body class=&quot;fancy&quot;&gt;<br />
+&lt;form action=&quot;http://localhost:8090/Jquerytest.CH$&quot; method=&quot;post&quot; &gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;div id=&quot;pageContainer&quot;&gt;<br />
+&nbsp; &nbsp; &nbsp; &lt;img src=&quot;images/banner1.png&quot; alt=&quot;GCLOUD OS @ &nbsp;Jemin Information Technology (C) &nbsp;ALL &nbsp;RIGHTS &nbsp;RESERVED&quot;&gt;<br />
+&nbsp; &nbsp; &nbsp; &lt;div id=&quot;pageContent&quot;&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &lt;div id=&quot;chaptersAccordion&quot;&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h2&gt;&lt;a href=&quot;#chapter1&quot;&gt;Enter your &nbsp;System Details&lt;/a&gt;&lt;/h2&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;p&gt;Enter &nbsp;the Name: &lt;input type=&quot;text&quot; name=&quot;name&quot; size=&quot;25&quot; /&gt;&lt;/p&gt;<br />
+&lt;p&gt;Enter your Username : &lt;input type=&quot;text&quot; name=&quot;uname&quot; size=&quot;15&quot;/&gt;&lt;/p&gt;<br />
+&lt;p&gt;Enter &nbsp;the password : &lt;input type=&quot;password&quot; name=&quot;password&quot; size=&quot;25&quot; /&gt;&lt;/p&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;h2&gt;&lt;a href=&quot;#chapter2&quot;&gt;REGISTER&lt;/a&gt;&lt;/h2&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;input type=&quot;submit&quot; name=&quot;Click&quot;&gt;<br />
+&lt;input type=&quot;reset&quot; name=&quot;Clear&quot;&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/form&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/body&gt;<br />
+&lt;/html&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Write &nbsp; a &nbsp; &nbsp;Oak java &nbsp; &nbsp;for &nbsp;Jquerytest &nbsp;as &nbsp; we see &nbsp;this &nbsp; same &nbsp;example &nbsp; in JSTAR.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">rename &nbsp;it &nbsp; &nbsp;as &nbsp; &nbsp;Jquerytest.CH$.exe</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;execute &nbsp; in &nbsp;browser.</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">==============================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Program-2<br />
+=========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;CHSAUCER&gt;</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;PACK&gt; &nbsp;p<br />
+{<br />
+&nbsp; &nbsp;&lt;CLASS&gt; index1<br />
+&nbsp; &nbsp;{<br />
+&nbsp; &nbsp; &nbsp; public void main()<br />
+&nbsp; &nbsp; &nbsp; {</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">HTML.displayhtml(&quot;Eregister.html&quot;);</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp;<br />
+}</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">}<br />
+}</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/CHSAUCER&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;html&gt;<br />
+&nbsp; &lt;head&gt;<br />
+&nbsp; &nbsp; &lt;title&gt; &nbsp;USER &nbsp;REGISTRATION&lt;/title&gt;<br />
+&nbsp; &nbsp;&nbsp;<br />
+&nbsp; &lt;/head&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &lt;body class=&quot;fancy&quot;&gt;<br />
+&lt;form action=&quot;http://localhost:8090/Programs8.CH$&quot; method=&quot;post&quot; &gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;div id=&quot;pageContainer&quot;&gt;<br />
+&nbsp; &nbsp; &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &lt;div id=&quot;pageContent&quot;&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &lt;div id=&quot;chaptersAccordion&quot;&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;h2&gt;&lt;a href=&quot;#chapter1&quot;&gt;Enter your &nbsp;EMP Details&lt;/a&gt;&lt;/h2&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;p&gt;Enter &nbsp;the Name: &lt;input type=&quot;text&quot; name=&quot;ename&quot; size=&quot;25&quot; /&gt;&lt;/p&gt;<br />
+&lt;p&gt;Enter your Username : &lt;input type=&quot;text&quot; name=&quot;dept&quot; size=&quot;15&quot;/&gt;&lt;/p&gt;<br />
+&lt;p&gt;Enter &nbsp;the password : &lt;input type=&quot;password&quot; name=&quot;design&quot; size=&quot;25&quot; /&gt;&lt;/p&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;h2&gt;&lt;a href=&quot;#chapter2&quot;&gt;REGISTER&lt;/a&gt;&lt;/h2&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;div&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;input type=&quot;submit&quot; name=&quot;Click&quot;&gt;<br />
+&lt;input type=&quot;reset&quot; name=&quot;Clear&quot;&gt;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;/div&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/form&gt;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">&lt;/body&gt;<br />
+&lt;/html&gt;</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Write &nbsp; a &nbsp; &nbsp;Oak java &nbsp; &nbsp;for &nbsp;Program8 &nbsp;as &nbsp; we see &nbsp;this &nbsp; same &nbsp;example &nbsp; in JSTAR.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">rename &nbsp;it &nbsp; &nbsp;as &nbsp; &nbsp;Program8.CH$.exe</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;execute &nbsp; in &nbsp;browser.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">==============================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">EXAMPLE<br />
+=========</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">use &nbsp;wdba.exe &nbsp;and &nbsp;rename &nbsp;it &nbsp; as wdba.CH$.exe</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">and &nbsp;now &nbsp;excecute &nbsp;in &nbsp;browser &nbsp; as &nbsp;shown &nbsp; below...</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>A) What &nbsp; are the &nbsp;modules &nbsp; present &nbsp;in &nbsp;CHDollar?</strong><br />
+=========================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CHDollar &nbsp;is &nbsp;a &nbsp;wide &nbsp;topic focused &nbsp;only &nbsp; on &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Proxy Remote &nbsp;Webapplication &nbsp;with &nbsp;TYPE-2 &nbsp;(CLient &nbsp;and &nbsp;Server)...</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>There &nbsp; are &nbsp; &nbsp;7 &nbsp;modules &nbsp; present &nbsp;in &nbsp;CHDollar.</strong>..</span></span></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">1) &nbsp;CHDOLLAR-CH$ (used &nbsp;for &nbsp;normalremotewebapplication)(This module is included &nbsp;in &nbsp;CHDollar)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">2) CHDOLLAR-chdollar-J$-ATM BANKING(This module is included &nbsp;in &nbsp;CHDollar)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">3) &nbsp;CHDOLLAR-JSTARPart1-ADVANCEDWEBDESIGN(biometric) and &nbsp;CHDollar-JSTARPart2(Library &nbsp;management and other client-server projects)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">(This module is included &nbsp;in &nbsp;CHDollar)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">4) &nbsp;CHDOLLAR-JWP (used &nbsp;for &nbsp;Reservation based &nbsp;projects )</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">(This module is included &nbsp;in &nbsp;CHDollar)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">5) &nbsp;CHDOLLAR &nbsp;with &nbsp;JDollar(JWEB) &nbsp;Technology...(Here &nbsp;JDollar(JWEB) &nbsp;is &nbsp;focused)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">(This module is included &nbsp;in &nbsp;CHDollar)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">6) &nbsp;It &nbsp;is &nbsp;used &nbsp;with &nbsp;C@ &nbsp;and &nbsp;Arrow# - &nbsp;Manufacturing &nbsp;and &nbsp;statistics domain</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">(This module is not included in &nbsp;CHDollar; &nbsp;you &nbsp;can &nbsp;see &nbsp;more &nbsp;detail &nbsp;at &nbsp;C@ &nbsp;and &nbsp;Arrow#)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">7) &nbsp;CHDOLLAR &nbsp;with &nbsp;CDollar,Gdollar &nbsp;(OnlineBills , forms,reports)(we can &nbsp;use &nbsp;C# Technology)</span></span></strong></p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">(This module is included &nbsp;in &nbsp;CHDollar)</span></span></strong></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>What &nbsp;are &nbsp;the &nbsp;advantages &nbsp;of &nbsp;CH$ P.L &nbsp;over &nbsp;JSTAR P.L?</strong><br />
+==========================================================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">CH$ &nbsp;is &nbsp;used &nbsp;in &nbsp;variety &nbsp;of &nbsp;remote &nbsp;webapplication &nbsp;like &nbsp;BILLING, FORMS,Reports, ATM &nbsp;banking, &nbsp;biometric,</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Reservation &nbsp;like &nbsp;bus,train,cinema &nbsp;ticket,etc.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Why &nbsp;we &nbsp;focus &nbsp;CHDollar?</strong><br />
+===========================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Suppose &nbsp;a &nbsp; banking &nbsp;customer &nbsp;want &nbsp;to &nbsp;update &nbsp;his &nbsp;account &nbsp;</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">in &nbsp;banking &nbsp;website.. &nbsp;That &nbsp;data &nbsp;or &nbsp;information &nbsp; is &nbsp;stolen by &nbsp; hackers..</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SO &nbsp;CHDollar &nbsp;is &nbsp; used &nbsp; for &nbsp;security &nbsp;side &nbsp;towards banking &nbsp;and &nbsp;finance &nbsp;domain.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Since &nbsp;we &nbsp;already &nbsp;know &nbsp;the &nbsp;fact &nbsp;that if &nbsp; you use &nbsp;.exe or &nbsp;.dbs &nbsp; file &nbsp;in &nbsp;CHDollar &nbsp;then</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">it &nbsp;will &nbsp; be &nbsp;more &nbsp;safe..</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">So &nbsp;CHDollar is &nbsp; &nbsp;focused &nbsp;....</span></span></p>
+
+<p><br />
+<span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px"><strong>Important &nbsp;note:</strong><br />
+================</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">When &nbsp;you &nbsp;host &nbsp; JDollar &nbsp;or &nbsp;Chdollar &nbsp;Servers &nbsp; in &nbsp;any &nbsp;of &nbsp;your &nbsp; today</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">available &nbsp; hosting &nbsp; provider. &nbsp;You &nbsp; can &nbsp; see &nbsp;JDollar &nbsp;or &nbsp; CHdollar &nbsp; website &nbsp; at &nbsp;any &nbsp;mobile phones</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">or &nbsp;at &nbsp;internet.</span></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">SO &nbsp; Hosting &nbsp; &nbsp;is &nbsp;mandaltory &nbsp; for &nbsp;CHDollar &nbsp;p.L &nbsp;and &nbsp;JDollar &nbsp;p.l &nbsp; to &nbsp;publish &nbsp; the &nbsp;webpages.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">====================END &nbsp;OF &nbsp; CHDOLLAR &nbsp; TUTORIAL===========================================</span></span></strong></p>
+Reset  Text  HTML code  Copy
+<p>Free online <a href="https://4html.net/Online-HTML-Editor-Text-to-HTML-Converter-870.html"> HTML editor free</a> lets you easily help edit content for your websites.</p>
