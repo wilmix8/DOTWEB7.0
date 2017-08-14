@@ -10,7 +10,7 @@
 <p>&nbsp;</p>
 
 <p align=centre><strong><u><span style="font-size:16px">CHDOLLAR(CH$)ProgrammingLanguage</span></u></strong></p>
-<p><strong><u>                                          ===============================================</u></strong></p>
+<p><strong><u>                                          ================================</u></strong></p>
 <p>&nbsp;</p>
 
 <p><br />
