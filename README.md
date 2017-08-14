@@ -3,13 +3,13 @@
 
 <body  bgcolor="gold">
 
-
-
-<p>&nbsp;</p>
+<form>
 
 <p>&nbsp;</p>
 
-<p align=center><strong><u><span style="font-size:16px">CHDOLLAR &nbsp; Programming &nbsp; &nbsp;Language</span></u></strong></p>
+<p>&nbsp;</p>
+
+<p align=center><strong><u><span style="font-size:16px">CHDOLLAR(CH$)ProgrammingLanguage</span></u></strong></p>
 <p><strong><u>                                          ===============================================</u></strong></p>
 <p>&nbsp;</p>
 
@@ -1843,3 +1843,8 @@ angular.CH$<br />
 <p>&nbsp;</p>
 
 <p><strong><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">=================END &nbsp;OF &nbsp; CHDOLLAR &nbsp; TUTORIAL======================================</span></span></strong></p>
+
+</form>
+
+</html>
+
