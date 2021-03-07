@@ -2,7 +2,7 @@ title: Chdollar
 description: " CHDollar Programming Language  is a modern Programming Language consists of JAVA OOPS, C# OOPS,  Behave like CDOLLAR OOPS, GDOLLAR OOPS,used in Remote  WebApplication , and Advanced  OOPs. It  is  mainly  used  as a   Remote Webappilication. It is used in case of Billing,Forms ,normal  remotewebapplication ,   CH$-GRAPHICS ,and complex problems."
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
